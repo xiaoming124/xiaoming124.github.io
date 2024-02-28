@@ -22,12 +22,17 @@ Publications
 ======
 **<font size=5>Conference</font>**
 
-**[MobiCom'24] Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels** (Conditionally accepted with shepherding)
+**[MobiCom'24] Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
 
 **<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
 Professional Services
 ======
+**Program Committee Member**
+* ACM MobiCom '24 Artifact Evaluation Committee
+
+**Reviewer**
+* Invited reviewer of ACM Transactions on Sensor Networks 2024
 * Invited reviewer of IEEE Transactions on Wireless Communications (CCF-B) 2023
 * Invited reviewer of Computer Networks (CCF-B) 2023
 
