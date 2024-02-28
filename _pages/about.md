@@ -33,8 +33,8 @@ Professional Services
 
 **Reviewer**
 * Invited reviewer of ACM Transactions on Sensor Networks 2024
-* Invited reviewer of IEEE Transactions on Wireless Communications (CCF-B) 2023
-* Invited reviewer of Computer Networks (CCF-B) 2023
+* Invited reviewer of IEEE Transactions on Wireless Communications 2023
+* Invited reviewer of Computer Networks 2023
 
 Honors & Awards
 ======
