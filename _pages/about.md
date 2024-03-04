@@ -20,7 +20,7 @@ Research Interests
 
 Publications
 ======
-**<font size=5>Conference</font>**
+**Conference**
 
 [[MobiCom '24](https://www.sigmobile.org/mobicom/2024)] **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels** [[PDF](files/MobiCom_24_XGate_CameraReady.pdf)]
 
