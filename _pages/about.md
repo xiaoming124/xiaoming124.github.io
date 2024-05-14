@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Shiming Yu（于世明）is currently a second-year Ph. D. student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under supervision of [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). He received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). His research interests include Low Power Wide Area Network (LPWAN), LoRa, Mobile Sensing.
+Shiming Yu（于世明）is currently a second-year Ph. D. student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). He received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). His research interests include Low Power Wide Area Network (LPWAN), LoRa, Mobile Sensing.
 
 Please find more about me in my [CV](files/cv_14.pdf).
 
@@ -30,6 +30,7 @@ Professional Services
 ======
 **Program Committee Member**
 * ACM MobiCom '24 Artifact Evaluation Committee
+* ACM MobiSys '24 Artifact Evaluation Committee
 
 **Reviewer**
 * Invited reviewer of ACM Transactions on Sensor Networks 2024
