@@ -14,7 +14,7 @@ Please find more about me in my [CV](files/cv_14.pdf).
 
 Research Interests
 ======
-* Low Power Wide Area Networks(LPWANs) 
+* Low Power Wide Area Networks (LPWANs) 
 * Internet-of-Things
 * Wireless Sensing and Networking
 
@@ -23,8 +23,8 @@ Publications
 **Conference**
 
 [[MobiCom '24](https://www.sigmobile.org/mobicom/2024)] **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels** 
-![](images/badges.png=x600)
-[[PDF](files/3636534.3649375.pdf)][[Code](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides]]
+![](images/badges.png =x600)
+[[PDF](files/3636534.3649375.pdf)][[Code](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides]()]
 
 **<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
