@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a second-year Ph. D. student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My research interests include Low Power Wide Area Network (LPWAN), LoRa, Mobile Sensing.
+I am currently a second-year Ph. D. student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My research interests include Low Power Wide Area Network (LPWAN), LoRa, Mobile Sensing.
 
 Please find more about me in my [CV](files/cv_14.pdf).
 
