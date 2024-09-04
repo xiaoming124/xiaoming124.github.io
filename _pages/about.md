@@ -30,8 +30,8 @@ Publications
 Professional Services
 ======
 **Program Committee Member**
-* ACM MobiCom '24 Artifact Evaluation Committee
-* ACM MobiSys '24 Artifact Evaluation Committee
+* ACM MobiCom `24 Artifact Evaluation Committee
+* ACM MobiSys `24 Artifact Evaluation Committee
 
 **Reviewer**
 * Invited reviewer of ACM Transactions on Sensor Networks 2024
