@@ -27,6 +27,10 @@ Publications
 
 **<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
+[[**SenSys 2024**](https://sensys.acm.org/2024/)] **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways** 
+
+**<u>Shiming Yu</u>**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
+
 Professional Services
 ======
 **Program Committee Member**
