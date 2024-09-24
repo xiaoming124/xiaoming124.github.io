@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,25 +11,29 @@ I am currently a 3rd year Ph. D. candidate at Department of Computing, [The Hong
 
 Please find more about me in my [CV](files/cv_14.pdf).
 
-
-Research Interests
+News
 ======
-* Low Power Wide Area Networks (LPWANs) 
-* Internet-of-Things
-* Wireless Sensing and Networking
+* *2024.9*: Our paper *FDLoRa* is accepted by ACM SenSys 2024 (Accept ratio:58/313=18.53%).
+
+* *2024.6*: Won Best Oral Presentation Award @ PolyU CRSC 2024
+
+* *2023.11*: Our paper *XGate* is accepted by ACM MobiCom 2024 (Acceptance ratio: 48/207=23.18%).
 
 Publications
 ======
-**Conference**
+* **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
 
-**<font color=Blue>[MobiCom 2024]</font>** **<font face='Times New Roman'> Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels </font>
-[[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]**
+  **Shiming Yu**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
-**<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
+  *In [Proc. ACM MobiCom 2024](https://www.sigmobile.org/mobicom/2024/), Nov 2024*
 
-**<font color=Blue>[SenSys 2024]</font>** **<font face='Times New Roman'> FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways </font>**
+  [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
-**<u>Shiming Yu</u>**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
+* **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
+
+  **Shiming Yu**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
+
+  *In [Proc. ACM SenSys 2024](https://sensys.acm.org/2024/), Nov 2024*
 
 Professional Services
 ======
@@ -50,13 +54,14 @@ Honors & Awards
 * Outstanding Student Scholarship (Top 15%), 2019
 * Outstanding Student Scholarship (Top 15%), 2020
 
-**<font size=4>Competition</font>**
-* 2nd Prize, Intel Cup National Undergraduate Electronic Design Contest ‑ Embedded System Design Invitational Contest, 2020 @ Shanghai, China
-* 2nd Prize in Sichuan Division, TI Cup National Undergraduate Electronic Design Contest, 2020
-* 3nd Prize in Sichuan Division, TI Cup National Undergraduate Electronic Design Contest, 2019
+**<font size=4>Research</font>**
+* Best Oral Presentation Award
+
+  *In COMP 50th Anniversary Research Student Conference (CRSC 2024)*
 
 Teaching Experience
 ======
+* COMP5434 Big Date Computing, Teaching Assistant, 2024 Fall
 * COMP5311 Internet Infrastructure And Protocols, Teaching Assistant, 2023 Fall
 * COMP1011 Programming Fundamentals, Teaching Assistant, 2023 Spring
 * COMP1004 Introduction to Artificial Intelligence and Data Analytics, Teaching Assistant, 2022 Fall
