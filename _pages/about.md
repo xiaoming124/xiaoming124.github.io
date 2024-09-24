@@ -22,7 +22,7 @@ Publications
 ======
 **Conference**
 
-**<font color=Blue>[[MobiCom 2024](https://www.sigmobile.org/mobicom/2024)]</font>** <font face='Futura'> Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels </font>
+**[<font color=Blue>[MobiCom 2024]</font>(https://www.sigmobile.org/mobicom/2024)]** <font face='Futura'> Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels </font>
 [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
 **<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
