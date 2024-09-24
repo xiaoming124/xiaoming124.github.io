@@ -22,13 +22,12 @@ Publications
 ======
 **Conference**
 
-**<font color=Blue>[MobiCom 2024]</font>** <font face='Times New Roman'> Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels </font>
-[[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
+**<font color=Blue>[MobiCom 2024]</font>** **<font face='Times New Roman'> Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels </font>
+[[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]**
 
 **<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
-**<font color=Blue>[SenSys 2024]</font>** 
-<font face='Times New Roman'> FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways </font>
+**<font color=Blue>[SenSys 2024]</font>** **<font face='Times New Roman'> FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways </font>**
 
 **<u>Shiming Yu</u>**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
