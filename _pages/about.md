@@ -13,11 +13,11 @@ Please find more about me in my [CV](files/cv_14.pdf).
 
 News
 ======
-* **[2024.9]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (Accept ratio: 58/313=18.53%).
+* *[2024.9]*: Our paper *FDLoRa* is accepted by *ACM SenSys 2024* (Accept ratio: 58/313=18.53%).
 
-* **[2024.6]**: Won Best Oral Presentation Award @ PolyU CRSC 2024
+* *[2024.6]*: Won Best Oral Presentation Award @ PolyU CRSC 2024
 
-* **[2023.11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (Accept ratio: 48/207=23.18%).
+* *[2023.11]*: Our paper *XGate* is accepted by *ACM MobiCom 2024* (Accept ratio: 103/494=20.85%).
 
 Publications
 ======
