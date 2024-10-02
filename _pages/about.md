@@ -13,27 +13,27 @@ Please find more about me in my [CV](files/cv_14.pdf).
 
 News
 ======
-* *[2024/9]*: Our paper *FDLoRa* is accepted to **ACM SenSys 2024** (58/313=18.53%).
+* **[2024/9]**: Our paper *FDLoRa* is accepted to **ACM SenSys 2024** (58/313=18.53%).
 
-* *[2024/6]*: Won Best Oral Presentation Award @ PolyU CRSC 2024
+* **[2024/6]**: Won Best Oral Presentation Award @ PolyU CRSC 2024
 
-* *[2023/11]*: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
+* **[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
 
 Publications
 ======
-**Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
+* **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
 
-**<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
+  **<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
-*The 24th Annual International Conference on Mobile Computing and Networking* ([**MobiCom 2024**](https://www.sigmobile.org/mobicom/2024/))
+  *The 24th Annual International Conference on Mobile Computing and Networking* ([**MobiCom 2024**](https://www.sigmobile.org/mobicom/2024/))
 
-[[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
+  [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
-**FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
+* **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
 
-**<u>Shiming Yu</u>**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
+  **<u>Shiming Yu</u>**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
-*The 22nd ACM Conference on Embedded Networked Sensor Systems* ([**SenSys 2024**](https://sensys.acm.org/2024/))
+  *The 22nd ACM Conference on Embedded Networked Sensor Systems* ([**SenSys 2024**](https://sensys.acm.org/2024/))
 
 Professional Services
 ======
