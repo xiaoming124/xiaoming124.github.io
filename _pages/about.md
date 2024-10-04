@@ -35,6 +35,8 @@ Publications
 
   *The 22nd ACM Conference on Embedded Networked Sensor Systems* ([**SenSys 2024**](https://sensys.acm.org/2024/))
 
+  [[Paper](files/sensys24-final205.pdf)]
+
 Professional Services
 ======
 **Program Committee Member**
