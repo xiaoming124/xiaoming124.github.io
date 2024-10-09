@@ -59,11 +59,11 @@ Honors & Awards
 **<font size=4>Research</font>**
 * Best Oral Presentation Award
 
-  *In COMP 50th Anniversary Research Student Conference (CRSC 2024)*
+  In *COMP 50th Anniversary Research Student Conference (PolyU CRSC 2024)*
 
 Teaching Experience
 ======
-* COMP5434 Big Date Computing, Teaching Assistant, 2024 Fall
+* COMP5434 Big Data Computing, Teaching Assistant, 2024 Fall
 * COMP5311 Internet Infrastructure And Protocols, Teaching Assistant, 2023 Fall
 * COMP1011 Programming Fundamentals, Teaching Assistant, 2023 Spring
 * COMP1004 Introduction to Artificial Intelligence and Data Analytics, Teaching Assistant, 2022 Fall
