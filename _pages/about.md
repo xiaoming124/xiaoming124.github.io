@@ -17,6 +17,10 @@ News
 
 * **[2024/6]**: Won Best Oral Presentation Award @ PolyU CRSC 2024
 
+* **[2024/4]**: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.
+
+* **[2024/2]**: Serve as ACM MobiCom 2024 Artifact Evaluation Committee.
+
 * **[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
 
 Publications
