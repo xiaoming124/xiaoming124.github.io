@@ -39,7 +39,7 @@ Publications
 
   *The 22nd ACM Conference on Embedded Networked Sensor Systems* ([**SenSys 2024**](https://sensys.acm.org/2024/))
 
-  [[Paper](files/sensys24-final205.pdf)][[Slides](files/XGate_MobiCom24_v2.key)]
+  [[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
 
 Professional Services
 ======
