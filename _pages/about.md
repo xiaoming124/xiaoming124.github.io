@@ -13,7 +13,9 @@ Please find more about me in my [CV](files/cv_14.pdf).
 
 News
 ======
-* **[2024/9]**: Our paper *FDLoRa* is accepted to **ACM SenSys 2024** (58/313=18.53%).
+* **[2024/10]**: Awarded ACM MobiCom 2024 Student Travel Grant.
+
+* **[2024/9]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
 
 * **[2024/6]**: Won Best Oral Presentation Award @ PolyU CRSC 2024
 
