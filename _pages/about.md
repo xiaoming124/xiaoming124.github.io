@@ -35,7 +35,7 @@ Publications
 
   <!-- *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking* -->
 
-  <font color = red>[ACM MobiCom'24]</font>[[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
+  [ACM MobiCom'24][[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
 * **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
 
@@ -43,7 +43,7 @@ Publications
 
   <!-- *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems* -->
 
-  <font color = red>[ACM SenSys'24]</font>[[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
+  [ACM SenSys'24][[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
 
 Professional Services
 ======
