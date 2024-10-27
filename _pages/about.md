@@ -33,7 +33,7 @@ Publications
 
   <u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
-  *The 30th Annual International Conference on Mobile Computing and Networking*
+  *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, Nov 18-22, 2024*
 
   [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
@@ -41,7 +41,7 @@ Publications
 
   <u>Shiming Yu</u>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
-  *The 22nd ACM Conference on Embedded Networked Sensor Systems*
+  *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, Nov 4-7, 2024*
 
   [[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
 
