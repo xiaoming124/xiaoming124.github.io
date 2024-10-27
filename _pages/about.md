@@ -73,7 +73,7 @@ Teaching Experience
 ======
 * COMP5434 Big Data Computing, Teaching Assistant, 2024 Fall
 * COMP5311 Internet Infrastructure And Protocols, Teaching Assistant, 2023 Fall
-* COMP1011 Programming Fundamentals, Teaching Assistant, 2023 Spring
+* COMP1011 Programming Fundamentals, Teaching Assistant, 2023 Spring, 2024 Spring
 * COMP1004 Introduction to Artificial Intelligence and Data Analytics, Teaching Assistant, 2022 Fall
 
 Contact
