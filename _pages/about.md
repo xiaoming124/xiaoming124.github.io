@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+About Me
+=====
 I am currently a 3rd year Ph. D. candidate at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My research interests include Low Power Wide Area Network (LPWAN), LoRa, Mobile Sensing.
 
 Please find more about me in my [CV](files/cv_14.pdf).
@@ -27,19 +29,19 @@ News
 
 Publications
 ======
-* **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
+**<font color = "red">[MobiCom'24]</font> Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
 
   **<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
-  *The 30th Annual International Conference on Mobile Computing and Networking* ([**MobiCom 2024**](https://www.sigmobile.org/mobicom/2024/))
+  *The 30th Annual International Conference on Mobile Computing and Networking*
 
   [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
-* **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
+**<font color = "red">[SenSys'24]</font> FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
 
   **<u>Shiming Yu</u>**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
-  *The 22nd ACM Conference on Embedded Networked Sensor Systems* ([**SenSys 2024**](https://sensys.acm.org/2024/))
+  *The 22nd ACM Conference on Embedded Networked Sensor Systems*
 
   [[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
 
