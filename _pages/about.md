@@ -33,17 +33,18 @@ Publications
 
   **Shiming Yu**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
-  <!-- *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking* -->
+  In [Proceedings of ACM MobiCom'24](https://www.sigmobile.org/mobicom/2024/), Nov 2024
 
-  [[ACM MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
+  [[Paper](files/3636534.3649375.pdf)]
+  [[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
 * **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
 
   **Shiming Yu**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
-  <!-- *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems* -->
+  In [Proceedings of ACM SenSys'24](https://sensys.acm.org/2024/), Nov 2024
 
-  [[ACM SenSys'24](https://sensys.acm.org/2024/)] [[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
+  [[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
 
 Professional Services
 ======
