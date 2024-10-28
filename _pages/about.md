@@ -33,7 +33,7 @@ Publications
 
   **Shiming Yu**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
-  In [Proceedings of ACM MobiCom'24](https://www.sigmobile.org/mobicom/2024/), Nov 2024
+  In [Proceedings of ACM MobiCom'24](https://www.sigmobile.org/mobicom/2024/), Washington D.C., USA, Nov 2024
 
   [[Paper](files/3636534.3649375.pdf)]
   [[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
@@ -42,7 +42,7 @@ Publications
 
   **Shiming Yu**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
-  In [Proceedings of ACM SenSys'24](https://sensys.acm.org/2024/), Nov 2024
+  In [Proceedings of ACM SenSys'24](https://sensys.acm.org/2024/), Hangzhou, China, Nov 2024
 
   [[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
 
