@@ -35,8 +35,7 @@ Publications
 
   In [Proceedings of ACM MobiCom'24](https://www.sigmobile.org/mobicom/2024/), Washington D.C., USA, Nov 2024
 
-  [[Paper](files/3636534.3649375.pdf)]
-  [[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
+  [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
 * **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
 
