@@ -44,7 +44,7 @@ Publications
 
   In [Proceedings of ACM SenSys'24](https://sensys.acm.org/2024/), Hangzhou, China, Nov 2024
 
-  [[Paper](files/sensys24-final205.pdf)][[Slides](files/FDLoRa_SenSys24.key)]
+  [[Paper](files/sensys24-final205.pdf)][[Bib](files/acm_3666025.3699338.bib)][[Slides](files/FDLoRa_SenSys24.key)]
 
 Professional Services
 ======
