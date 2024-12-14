@@ -15,21 +15,21 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 News
 ======
-**[2024/10]**: Awarded ACM MobiCom 2024 Student Travel Grant.
+* **[2024/10]**: Awarded ACM MobiCom 2024 Student Travel Grant.
 
-**[2024/09]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
+* **[2024/09]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
 
-**[2024/06]**: Won Best Oral Presentation Award @ PolyU CRSC 2024
+* **[2024/06]**: Won Best Oral Presentation Award @ PolyU CRSC 2024
 
-**[2024/04]**: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.
+* **[2024/04]**: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.
 
-**[2024/02]**: Serve as ACM MobiCom 2024 Artifact Evaluation Committee.
+* **[2024/02]**: Serve as ACM MobiCom 2024 Artifact Evaluation Committee.
 
-**[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
+* **[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
 
 Publications
 ======
-<button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 15px; background-color: #d31876; color: white; padding: 2px 3px; border-radius: 1px;"><b>MobiCom 2024</b></button> **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
+<button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 15px; background-color: #d31876; color: white; padding: 3px 3px; border: none;"><b>MobiCom 2024</b></button> **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
 
 **Shiming Yu**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
@@ -37,7 +37,7 @@ Publications
 
   [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
-<button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 15px; background-color: #feae00; color: white; padding: 2px 3px; border-radius: 1px;"><b>SenSys 2024</b></button> **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
+<button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 15px; background-color: #feae00; color: white; padding: 3px 3px; border: none;"><b>SenSys 2024</b></button> **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
 
 **Shiming Yu**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
