@@ -29,7 +29,7 @@ News
 
 Publications
 ======
-<button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 15px; background-color: #d31876; color: white; padding: 3px 3px; border: none;"><b>MobiCom 2024</b></button> **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
+<button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 16px; background-color: #d31876; color: white; padding: 3px 4px; border: none;"><b>MobiCom 2024</b></button> **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
 
 **Shiming Yu**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
@@ -37,7 +37,7 @@ Publications
 
   [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
 
-<button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 15px; background-color: #feae00; color: white; padding: 3px 3px; border: none;"><b>SenSys 2024</b></button> **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
+<button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 16px; background-color: #feae00; color: white; padding: 3px 4px; border: none;"><b>SenSys 2024</b></button> **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
 
 **Shiming Yu**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
