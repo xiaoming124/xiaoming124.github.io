@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Shiming Yu"
 excerpt: ""
 author_profile: true
 redirect_from: 
