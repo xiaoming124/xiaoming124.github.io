@@ -42,10 +42,10 @@ Publications
 
 <i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
 
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/3636534.3649375.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 1px 3px; border-radius: 0px; border: 1.5px solid black;">PDF</button>
-<button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: white; color: default; padding: 1px 3px; border-radius: 0px; border: 1.5px solid black;">Code</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: white; color: default; padding: 1px 3px; border-radius: 0px; border: 1.5px solid black;">Bib</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: white; color: default; padding: 1px 3px; border-radius: 0px; border: 1.5px solid black;">Slides</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/3636534.3649375.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
+<button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Code</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button>
     </div>
 </div>
 
@@ -71,9 +71,9 @@ Publications
 
 <i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
 
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/sensys24-final205.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 1px 3px; border-radius: 0px; border: 1.5px solid black;">PDF</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3666025.3699338.bib';" style="font-size: 14px; background-color: white; color: default; padding: 1px 3px; border-radius: 0px; border: 1.5px solid black;">Bib</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.key';" style="font-size: 14px; background-color: white; color: default; padding: 1px 3px; border-radius: 0px; border: 1.5px solid black;">Slides</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/sensys24-final205.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3666025.3699338.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button>
     </div>
 </div>
 
