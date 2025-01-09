@@ -29,12 +29,12 @@ News
 Publications
 ======
 
-<div style="display: flex; border: 1px solid none; height: 300px; margin: 0 0; position: relative;">
+<div style="display: flex; border: 1px solid none; height: 200px; margin: 0 0; position: relative;">
     <div style="width: 12%; background-color: none; padding: 20px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiCom’24</b></button>
     </div>
     <div style="width: 2px; background-color: none; margin: 0 2%;"></div>
-    <div style="flex: 1; background-color: none; padding: 20px;">
+    <div style="width: 80%; background-color: none; padding: 20px;">
         
 <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
 
@@ -58,12 +58,12 @@ Publications
 
   [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)] -->
 
-<div style="display: flex; border: 1px solid none; height: 300px; margin: 0 0; position: relative;">
+<div style="display: flex; border: 1px solid none; height: 200px; margin: 0 0; position: relative;">
     <div style="width: 12%; background-color: none; padding: 20px;">
         <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 13px; border-radius: 3px; border: none;"><b>SenSys’24</b></button>
     </div>
     <div style="width: 2px; background-color: none; margin: 0 2%;"></div>
-    <div style="flex: 1; background-color: none; padding: 20px;">
+    <div style="width: 80%; background-color: none; padding: 20px;">
         
 <b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
 
