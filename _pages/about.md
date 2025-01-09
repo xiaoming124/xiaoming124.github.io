@@ -8,44 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vertical Divider Example</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        .vertical-divider {
-            display: flex;
-            border: 1px solid none;
-            height: 300px; /* Adjust the height as necessary */
-            margin: 20px 0;
-            position: relative;
-        }
-        .left {
-            width: 12%;
-            background-color: none;
-            padding: 20px;
-        }
-        .right {
-            width: 88%;
-            background-color: none;
-            padding: 20px;
-        }
-        .divider {
-            width: 0px;
-            background-color: none;
-            position: absolute;
-            left: 50%;
-            top: 0;
-            bottom: 0;
-        }
-    </style>
-</head>
-
 I am currently a 3rd year Ph. D. candidate at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My research interests include Low Power Wide Area Network (LPWAN), LoRa, Mobile Sensing.
 
 Please find more about me in my [CV](files/CV_Shiming.pdf).
@@ -66,20 +28,6 @@ News
 
 Publications
 ======
-<div class="vertical-divider">
-    <div class="left">
-        <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 4px; border-radius: 3px; border: none;"><b>MobiCom’24</b></button>
-    </div>
-    <div class="divider"></div>
-    <div class="right">
-        <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
-        
-<b>Shiming Yu</b>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu<br>
-<i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i>        
-[[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
-    </div>
-</div>
-
 <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 16px; background-color: #d31876; color: white; padding: 3px 4px; border-radius: 3px; border: none;"><b>MobiCom 2024</b></button> 
 **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
 
