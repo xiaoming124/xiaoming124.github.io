@@ -49,34 +49,41 @@ Publications
     </div>
 </div>
 
-<style>
-    @media (max-width: 600px) {
-        .vertical-divider {
-            flex-direction: column; /* Stack vertically */
-            height: auto; /* Let the height adjust to content */
-        }
-        .divider {
-            display: none; /* Hide the divider line */
-        }
-    }
-</style>
-
-<button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 16px; background-color: #d31876; color: white; padding: 3px 4px; border-radius: 3px; border: none;"><b>MobiCom 2024</b></button> 
+<!-- <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 16px; background-color: #d31876; color: white; padding: 3px 4px; border-radius: 3px; border: none;"><b>MobiCom 2024</b></button> 
 **Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
 
 **Shiming Yu**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
 *The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024*
 
-  [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
+  [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)] -->
 
-<button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 16px; background-color: #feae00; color: white; padding: 3px 4px; border-radius: 3px; border: none;"><b>SenSys 2024</b></button> **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
+<div style="display: flex; border: 1px solid none; height: 300px; margin: 0 0; position: relative;">
+    <div style="width: 12%; background-color: none; padding: 20px;">
+        <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 13px; border-radius: 3px; border: none;"><b>SenSys’24</b></button>
+    </div>
+    <div style="width: 2px; background-color: none; margin: 0 2%;"></div>
+    <div style="flex: 1; background-color: none; padding: 20px;">
+        
+<b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
+
+<b>Shiming Yu</b>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng<br>
+
+<i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
+
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/sensys24-final205.pdf';" style="font-size: 14px; background-color: none; color: default; padding: 1px 3px; border-radius: 0px; border: 2px solid black;">PDF</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3666025.3699338.bib';" style="font-size: 14px; background-color: none; color: default; padding: 1px 3px; border-radius: 0px; border: 2px solid black;">Bib</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.key';" style="font-size: 14px; background-color: none; color: default; padding: 1px 3px; border-radius: 0px; border: 2px solid black;">Slides</button>
+    </div>
+</div>
+
+<!-- <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 16px; background-color: #feae00; color: white; padding: 3px 4px; border-radius: 3px; border: none;"><b>SenSys 2024</b></button> **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
 
 **Shiming Yu**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
 
 *The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024*
 
-  [[Paper](files/sensys24-final205.pdf)][[Bib](files/acm_3666025.3699338.bib)][[Slides](files/FDLoRa_SenSys24.key)]
+  [[Paper](files/sensys24-final205.pdf)][[Bib](files/acm_3666025.3699338.bib)][[Slides](files/FDLoRa_SenSys24.key)] -->
 
 Professional Services
 ======
