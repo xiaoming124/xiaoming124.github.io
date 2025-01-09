@@ -34,7 +34,7 @@ Publications
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiCom’24</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 0px 60px;">
+    <div style="width: 80%; background-color: none; padding: 20px 60px;">
         
 <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
 
@@ -63,7 +63,7 @@ Publications
         <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 16px; border-radius: 3px; border: none;"><b>SenSys’24</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 0px 60px;">
+    <div style="width: 80%; background-color: none; padding: 20px 60px;">
         
 <b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
 
