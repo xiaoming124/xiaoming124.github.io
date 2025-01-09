@@ -42,7 +42,10 @@ Publications
 
 <i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
 
-[[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)]
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/3636534.3649375.pdf';" style="font-size: 14px; background-color: none; color: default; padding: 2px 3px; border-radius: 0px; border: 2px solid black;">PDF</button>
+<button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: none; color: default; padding: 2px 3px; border-radius: 0px; border: 2px solid black;">Code</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: none; color: default; padding: 2px 3px; border-radius: 0px; border: 2px solid black;">Bib</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: none; color: default; padding: 2px 3px; border-radius: 0px; border: 2px solid black;">Slides</button>
     </div>
 </div>
 
