@@ -37,7 +37,7 @@ Publications
     <div style="width: 80%; background-color: none; padding: 20px 60px;">
         
 <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
-
+<br>
 <b>Shiming Yu</b>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu<br>
 
 <i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
@@ -66,7 +66,7 @@ Publications
     <div style="width: 80%; background-color: none; padding: 20px 60px;">
         
 <b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
-
+<br>
 <b>Shiming Yu</b>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng<br>
 
 <i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
