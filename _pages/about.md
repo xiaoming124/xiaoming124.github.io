@@ -33,7 +33,7 @@ Publications
     <div style="width: 12%; background-color: none; padding: 20px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiCom’24</b></button>
     </div>
-    <div style="width: 2px; background-color: none; position: absolute; top: 0; bottom: 0;"></div>
+    <div style="width: 2px; background-color: none;"></div>
     <div style="flex: 1; background-color: none; padding: 20px;">
         
 <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
