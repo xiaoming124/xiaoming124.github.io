@@ -33,7 +33,7 @@ Publications
     <div style="width: 12%; background-color: none; padding: 20px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiCom’24</b></button>
     </div>
-    <div style="width: 2px; background-color: none; margin: 0 10px;"></div>
+    <div style="width: 2px; background-color: none; margin: 0 2%;"></div>
     <div style="flex: 1; background-color: none; padding: 20px;">
         
 <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
@@ -42,10 +42,10 @@ Publications
 
 <i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
 
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/3636534.3649375.pdf';" style="font-size: 14px; background-color: none; color: default; padding: 2px 3px; border-radius: 0px; border: 2px solid black;">PDF</button>
-<button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: none; color: default; padding: 2px 3px; border-radius: 0px; border: 2px solid black;">Code</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: none; color: default; padding: 2px 3px; border-radius: 0px; border: 2px solid black;">Bib</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: none; color: default; padding: 2px 3px; border-radius: 0px; border: 2px solid black;">Slides</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/3636534.3649375.pdf';" style="font-size: 14px; background-color: none; color: default; padding: 1px 3px; border-radius: 0px; border: 2px solid black;">PDF</button>
+<button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: none; color: default; padding: 1px 3px; border-radius: 0px; border: 2px solid black;">Code</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: none; color: default; padding: 1px 3px; border-radius: 0px; border: 2px solid black;">Bib</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: none; color: default; padding: 1px 3px; border-radius: 0px; border: 2px solid black;">Slides</button>
     </div>
 </div>
 
