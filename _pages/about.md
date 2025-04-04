@@ -31,6 +31,29 @@ Publications
 
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
+        <button type="button" onclick="location.href='https://sensys.acm.org/2025/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 17px; border-radius: 3px; border: none;"><b>SenSys’24</b></button>
+    </div>
+    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
+    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+        
+<b>MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa
+Reception in Urban Environments</b><br>
+<br>
+Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
+
+<i>The 23rd ACM Conference on Embedded Networked Sensor Systems, , Irvine, CA, USA, 2025</i><br>
+<br>
+
+
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
+<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3666025.3699338.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button> -->
+<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button> -->
+    </div>
+</div>
+
+
+<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+    <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiCom’24</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
@@ -43,21 +66,13 @@ Publications
 <i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
 <br>
 
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/3636534.3649375.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
 <button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Code</button>
 <button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button>
 <button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button>
     </div>
 </div>
 
-<!-- <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 16px; background-color: #d31876; color: white; padding: 3px 4px; border-radius: 3px; border: none;"><b>MobiCom 2024</b></button> 
-**Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels**
-
-**Shiming Yu**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
-
-*The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024*
-
-  [[Paper](files/3636534.3649375.pdf)][[Codes](https://github.com/xiaoming124/XGate)][[Bib](files/acm_3636534.3649375.bib)][[Slides](files/XGate_MobiCom24_v2.key)] -->
 
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
@@ -73,25 +88,18 @@ Publications
 <i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
 <br>
 
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/sensys24-final205.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
+<button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
 <button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3666025.3699338.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button>
 <button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button>
     </div>
 </div>
 
-<!-- <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 16px; background-color: #feae00; color: white; padding: 3px 4px; border-radius: 3px; border: none;"><b>SenSys 2024</b></button> **FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways**
-
-**Shiming Yu**, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng
-
-*The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024*
-
-  [[Paper](files/sensys24-final205.pdf)][[Bib](files/acm_3666025.3699338.bib)][[Slides](files/FDLoRa_SenSys24.key)] -->
 
 Professional Services
 ======
 **Program Committee Member**
-* ACM MobiCom Artifact Evaluation, 2024
-* ACM MobiSys Artifact Evaluation, 2024
+* ACM MobiCom Artifact Evaluation, 2024-25
+* ACM MobiSys Artifact Evaluation, 2024-25
 
 **Invited Reviewer**
 * ACM Transactions on Sensor Networks, 2023
