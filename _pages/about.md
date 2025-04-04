@@ -14,6 +14,12 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 News
 ======
+* **[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee
+
+* **[2025/03]**: Our paper *HydraNet* is accepted by **ACM MobiCom 2025** (41/240=17.08%).
+
+* **[2025/02]**: Our paper *MoLoRa* is accepted by **ACM SenSys 2025** (46/245=18.78%).
+
 * **[2024/10]**: Awarded ACM MobiCom 2024 Student Travel Grant.
 
 * **[2024/09]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
@@ -28,6 +34,29 @@ News
 
 Publications
 ======
+
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+    <div style="width: 12%; background-color: none; padding: 25px 0px;">
+        <button type="button" onclick="location.href='https://www.sigmobile.org/mobisys/2025/';" style="font-size: 14px; background-color: #4169E1; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiSys’25</b></button>
+    </div>
+    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
+    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+        
+<b>Are LoRa Logical Channels Really Orthogonal? Practically Orthog-
+onalizing Massive Logical Channels</b><br>
+<br>
+<u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
+
+<i>The 23rd ACM International Conference on Mobile
+Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
+<br>
+<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button> -->
+<!-- <button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Code</button> -->
+<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button> -->
+<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button> -->
+    </div>
+</div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
