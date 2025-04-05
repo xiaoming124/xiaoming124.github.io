@@ -69,7 +69,7 @@ Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
 <b>From Interference Mitigation to Toleration:
 Pathway to Practical Spatial Reuse in LPWANs</b><br>
 <br>
-Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu2<br>
+Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
 
 <i>The 31st Annual International Conference on Mobile Computing and Networking, Hong Kong, China, 2025</i><br>
 <br>
