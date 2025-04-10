@@ -127,7 +127,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
-    <div style="width: 12%; background-color: none; padding: 25px 0px;">
+    <div style="width: 10%; background-color: none; padding: 0px 0px;">
         <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 17px; border-radius: 3px; border: none;"><b>SenSys’24</b></button>
     </div>
     <div style="width: 88%; background-color: none; padding: 20px 60px;">
