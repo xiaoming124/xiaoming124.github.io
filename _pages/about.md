@@ -44,8 +44,7 @@ Publications
     </div>
     <div style="width: 88%; background-color: none; padding: 20px 60px;">
         
-<b>Are LoRa Logical Channels Really Orthogonal? Practically Orthog-
-onalizing Massive Logical Channels</b><br>
+<b>Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels</b><br>
 <br>
 <u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
 
