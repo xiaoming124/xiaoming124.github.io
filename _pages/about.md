@@ -37,12 +37,12 @@ Publications
 ======
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<img src="https://xiaoming124.github.io/images/XGate.pdf" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobisys/2025/';" style="font-size: 14px; background-color: #4169E1; color: white; padding: 3px 15px; border-radius: 3px; border: none;"><b>MobiSys’25</b></button>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+    <div style="width: 88%; background-color: none; padding: 20px 60px;">
         
 <b>Are LoRa Logical Channels Really Orthogonal? Practically Orthog-
 onalizing Massive Logical Channels</b><br>
@@ -65,8 +65,7 @@ Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2025/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiCom’25</b></button>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+    <div style="width: 88%; background-color: none; padding: 20px 60px;">
         
 <b>From Interference Mitigation to Toleration:
 Pathway to Practical Spatial Reuse in LPWANs</b><br>
@@ -88,8 +87,7 @@ Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu<
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://sensys.acm.org/2025/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 17px; border-radius: 3px; border: none;"><b>SenSys’25</b></button>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+    <div style="width: 88%; background-color: none; padding: 20px 60px;">
         
 <b>MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa
 Reception in Urban Environments</b><br>
@@ -112,8 +110,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiCom’24</b></button>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+    <div style="width: 88%; background-color: none; padding: 20px 60px;">
         
 <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
 <br>
@@ -134,8 +131,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 17px; border-radius: 3px; border: none;"><b>SenSys’24</b></button>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+    <div style="width: 88%; background-color: none; padding: 20px 60px;">
         
 <b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
 <br>
