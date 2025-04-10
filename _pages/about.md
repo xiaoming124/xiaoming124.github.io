@@ -104,7 +104,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button> -->
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<img src="https://xiaoming124.github.io/images/XGate.png" align="right" style="vertical-align: middle; width: 200px; height: 120px; padding: 0px 0px;">
+<img src="https://xiaoming124.github.io/images/XGate.png" align="right" style="vertical-align: middle; width: 250px; height: 140px; padding: 0px 0px;">
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
     <div style="width: 10%; background-color: none; padding: 0px 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 14px; background-color: #d31876; color: white; padding: 3px 10px; border-radius: 3px; border: none;"><b>MobiCom’24</b></button>
