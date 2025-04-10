@@ -43,8 +43,7 @@ Publications
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
     <div style="width: 80%; background-color: none; padding: 20px 60px;">
         
-<b>Are LoRa Logical Channels Really Orthogonal? Practically Orthog-
-onalizing Massive Logical Channels</b><br>
+<b>Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels</b><br>
 <br>
 <u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
 
@@ -67,8 +66,7 @@ Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
     <div style="width: 80%; background-color: none; padding: 20px 60px;">
         
-<b>From Interference Mitigation to Toleration:
-Pathway to Practical Spatial Reuse in LPWANs</b><br>
+<b>From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</b><br>
 <br>
 Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
 
