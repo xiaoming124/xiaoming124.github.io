@@ -45,8 +45,7 @@ Publications
         
 <b>Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels</b><br>
 <u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
-<i>The 23rd ACM International Conference on Mobile
-Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
+<i>The 23rd ACM International Conference on Mobile Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
 <br>
     </div>
 </div>
@@ -62,7 +61,7 @@ Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
 <b>From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</b><br>
 Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
 <i>The 31st Annual International Conference on Mobile Computing and Networking, Hong Kong, China, 2025</i><br>
-[[PDF]](https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf)
+<i>[[PDF]](https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf) <br clear="left"/>
 <br>
     </div>
 </div>
@@ -78,7 +77,7 @@ Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu<
 <b>MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa
 Reception in Urban Environments</b><br>
 Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
-<i>The 23rd ACM Conference on Embedded Networked Sensor Systems, , Irvine, CA, USA, 2025</i><br>
+<i>The 23rd ACM Conference on Embedded Networked Sensor Systems, Irvine, CA, USA, 2025</i><br>
 [[PDF]](https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf)
 <br>
     </div>
