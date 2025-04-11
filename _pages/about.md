@@ -155,7 +155,7 @@ Professional Services
 * ACM MobiSys Artifact Evaluation, 2024-25
 
 **Invited Reviewer**
-* ACM Transactions on Sensor Networks, 2023
+* ACM Transactions on Sensor Networks, 2023,25
 * IEEE Transactions on Wireless Communications, 2023
 * IEEE Internet of Things Journal, 2024
 * Computer Networks, 2023
