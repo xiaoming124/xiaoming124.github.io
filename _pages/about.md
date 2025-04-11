@@ -44,12 +44,9 @@ Publications
     <div style="width: 80%; background-color: none; padding: 0px 60px;">
         
 <b>Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels</b><br>
-<br>
 <u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
-
 <i>The 23rd ACM International Conference on Mobile
 Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
-<br>
     </div>
 </div>
 
@@ -62,12 +59,9 @@ Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
     <div style="width: 80%; background-color: none; padding: 0px 60px;">
         
 <b>From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</b><br>
-<br>
 Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
-
 <i>The 31st Annual International Conference on Mobile Computing and Networking, Hong Kong, China, 2025</i><br>
-<br>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
+[[PDF]](https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf)
     </div>
 </div>
 
@@ -85,19 +79,11 @@ Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu<
         
 <b>MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa
 Reception in Urban Environments</b><br>
-<br>
 Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
-
 <i>The 23rd ACM Conference on Embedded Networked Sensor Systems, , Irvine, CA, USA, 2025</i><br>
-<br>
-
-
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
+[[PDF]](https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf)
     </div>
 </div>
-
-<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3666025.3699338.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button> -->
-<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button> -->
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
@@ -108,16 +94,9 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
     <div style="width: 80%; background-color: none; padding: 20px 60px;">
         
 <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
-<br>
 <u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu<br>
-
 <i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
-<br>
-
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
-<button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Code</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button>
+[[PDF]](https://xiaoming124.github.io/files/XGate_MobiCom24.pdf)[[Code]](https://github.com/xiaoming124/XGate)[[Bib]](https://github.com/xiaoming124/files/acm_3636534.3649375.bib)[[Slides]](https://github.com/xiaoming124/files/XGate_MobiCom24_v2.key)
     </div>
 </div>
 
@@ -130,15 +109,9 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
     <div style="width: 80%; background-color: none; padding: 20px 60px;">
         
 <b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
-<br>
 <u>Shiming Yu</u>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng<br>
-
 <i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
-<br>
-
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">PDF</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3666025.3699338.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button>
-<button type="button" onclick="location.href='https://xiaoming124.github.io/files/FDLoRa_SenSys24.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button>
+[[PDF]](https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf)[[Bib]](https://github.com/xiaoming124/files/acm_3666025.3699338.bib)[[Slides]](https://github.com/xiaoming124/files/FDLoRa_SenSys24.key)
     </div>
 </div>
 
