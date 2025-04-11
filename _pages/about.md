@@ -47,6 +47,7 @@ Publications
 <u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
 <i>The 23rd ACM International Conference on Mobile
 Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
+<br>
     </div>
 </div>
 
@@ -62,12 +63,9 @@ Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
 Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
 <i>The 31st Annual International Conference on Mobile Computing and Networking, Hong Kong, China, 2025</i><br>
 [[PDF](https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf)]
+<br>
     </div>
 </div>
-
-<!-- <button type="button" onclick="location.href='https://github.com/xiaoming124/XGate';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Code</button> -->
-<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/acm_3636534.3649375.bib';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Bib</button> -->
-<!-- <button type="button" onclick="location.href='https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key';" style="font-size: 14px; background-color: white; color: default; padding: 3px 6px; border-radius: 4px; border: 1.5px solid black;">Slides</button> -->
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
@@ -82,6 +80,7 @@ Reception in Urban Environments</b><br>
 Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
 <i>The 23rd ACM Conference on Embedded Networked Sensor Systems, , Irvine, CA, USA, 2025</i><br>
 [[PDF](https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf)]
+<br>
     </div>
 </div>
 
@@ -100,6 +99,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 [[Code](https://github.com/xiaoming124/XGate)]
 [[Bib](https://github.com/xiaoming124/files/acm_3636534.3649375.bib)] 
 [[Slides](https://github.com/xiaoming124/files/XGate_MobiCom24_v2.key)]
+<br>
     </div>
 </div>
 
@@ -117,6 +117,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 [[PDF](https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf)]
 [[Bib](https://github.com/xiaoming124/files/acm_3666025.3699338.bib)]
 [[Slides](https://github.com/xiaoming124/files/FDLoRa_SenSys24.key)]
+<br>
     </div>
 </div>
 
