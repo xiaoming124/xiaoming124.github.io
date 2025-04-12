@@ -46,6 +46,8 @@ Publications
 <b>Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels</b><br>
 <u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
 <i>The 23rd ACM International Conference on Mobile Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
+<a href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf">[PDF]</a>
+<a href="https://github.com/xiaoming124/Canas">[Code]</a>
 <br>
     </div>
 </div>
