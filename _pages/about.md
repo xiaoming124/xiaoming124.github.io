@@ -47,8 +47,7 @@ Publications
 <u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
 <i>The 23rd ACM International Conference on Mobile Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
 <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf">[PDF]</a>
-<a href="https://github.com/xiaoming124/Canas">[Code]</a>
-<br>
+<a href="https://github.com/xiaoming124/Canas">[Code]</a><br>
 <br>
     </div>
 </div>
@@ -72,7 +71,7 @@ Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu<
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
-        <button type="button" onclick="location.href='https://sensys.acm.org/2025/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 17px; border-radius: 3px; border: none;"><b>SenSys’25</b></button>
+        <button type="button" onclick="location.href='https://sensys.acm.org/2025/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 18px; border-radius: 3px; border: none;"><b>SenSys’25</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
     <div style="width: 80%; background-color: none; padding: 20px 60px;">
@@ -108,7 +107,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
-        <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 17px; border-radius: 3px; border: none;"><b>SenSys’24</b></button>
+        <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 14px; background-color: #feae00; color: white; padding: 3px 18px; border-radius: 3px; border: none;"><b>SenSys’24</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
     <div style="width: 80%; background-color: none; padding: 20px 60px;">
