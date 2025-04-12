@@ -100,7 +100,6 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <a href="https://github.com/xiaoming124/XGate">[Code]</a>
 <a href="https://github.com/xiaoming124/files/acm_3636534.3649375.bib">[Bib]</a>
 <a href="https://github.com/xiaoming124/files/XGate_MobiCom24_v2.key">[Slides]</a>
-
 <br>
     </div>
 </div>
