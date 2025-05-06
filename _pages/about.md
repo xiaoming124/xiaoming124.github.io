@@ -98,7 +98,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu<br>
 <i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
 <a href="https://xiaoming124.github.io/files/XGate_MobiCom24.pdf">[PDF]</a>
-<a href="https://xiaoming124.github.io/XGate">[Code]</a>
+<a href="https://github.com/xiaoming124/XGate">[Code]</a>
 <a href="https://xiaoming124.github.io/files/acm_3636534.3649375.bib">[Bib]</a>
 <a href="https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key">[Slides]</a>
 <br>
