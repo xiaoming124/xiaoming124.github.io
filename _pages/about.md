@@ -98,9 +98,9 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu<br>
 <i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
 <a href="https://xiaoming124.github.io/files/XGate_MobiCom24.pdf">[PDF]</a>
-<a href="https://github.com/xiaoming124/XGate">[Code]</a>
-<a href="https://github.com/xiaoming124/files/acm_3636534.3649375.bib">[Bib]</a>
-<a href="https://github.com/xiaoming124/files/XGate_MobiCom24_v2.key">[Slides]</a>
+<a href="https://xiaoming124.github.io/XGate">[Code]</a>
+<a href="https://xiaoming124.github.io/files/acm_3636534.3649375.bib">[Bib]</a>
+<a href="https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key">[Slides]</a>
 <br>
     </div>
 </div>
@@ -117,8 +117,8 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <u>Shiming Yu</u>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng<br>
 <i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
 <a href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf">[PDF]</a>
-<a href="https://github.com/xiaoming124/files/acm_3666025.3699338.bib">[Bib]</a>
-<a href="https://github.com/xiaoming124/files/FDLoRa_SenSys24.key">[Slides]</a>
+<a href="https://xiaoming124.github.io/files/acm_3666025.3699338.bib">[Bib]</a>
+<a href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.key">[Slides]</a>
 <br>
     </div>
 </div>
