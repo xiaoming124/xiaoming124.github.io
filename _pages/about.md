@@ -48,6 +48,7 @@ Publications
 <i>The 23rd ACM International Conference on Mobile Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
 <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf">[PDF]</a>
 <a href="https://github.com/xiaoming124/Canas">[Code]</a>
+<a href="https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key">[Slides]</a>
 <br>
 <br>
     </div>
