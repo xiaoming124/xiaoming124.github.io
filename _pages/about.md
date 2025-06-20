@@ -66,6 +66,7 @@ Publications
 Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
 <i>The 31st Annual International Conference on Mobile Computing and Networking, Hong Kong, China, 2025</i><br>
 <a href="https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf">[PDF]</a>
+<a href="https://github.com/LeonaRnLi/HydraNet">[Code]</a>
 <br>
     </div>
 </div>
