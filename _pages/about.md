@@ -14,7 +14,9 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 News
 ======
-* **[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee
+* **[2025/07]**: Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.
+
+* **[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.
 
 * **[2025/03]**: Our paper *HydraNet* is accepted by **ACM MobiCom 2025** (41/240=17.08%).
 
@@ -34,6 +36,25 @@ News
 
 Publications
 ======
+
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+    <div style="width: 12%; background-color: none; padding: 5px 0px;">
+        <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 14px; background-color: #32a84e; color: white; padding: 3px 26px; border-radius: 3px; border: none;"><b>ICNP’25</b></button>
+    </div>
+    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
+    <div style="width: 80%; background-color: none; padding: 0px 60px;">
+        
+<b>SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks</b><br>
+Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<br>
+<i>The 33rd IEEE International Conference on Network Protocols, Seoul, South Korea, 2025</i><br>
+<!-- <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf">[PDF]</a>
+<a href="https://github.com/xiaoming124/Canas">[Code]</a>
+<a href="https://xiaoming124.github.io/files/Canas_MobiSys25.key">[Slides]</a> -->
+<br>
+<br>
+    </div>
+</div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
@@ -133,13 +154,15 @@ Professional Services
 * ACM MobiSys Artifact Evaluation, 2024-25
 
 **Invited Reviewer**
+* IEEE Transactions on Mobile Computing, 2025
 * ACM Transactions on Sensor Networks, 2023,2025
 * IEEE Transactions on Wireless Communications, 2023
-* IEEE Internet of Things Journal, 2024
+* IEEE Internet of Things Journal, 2024-25
 * Computer Networks, 2023
 
 Honors & Awards
 ======
+* Winner (Rank 1) @ PolyU FCMS Three Minute Thesis (3MT) Competition, 2025
 * Student Travel Grant @ ACM MobiCom, 2024
 * Best Oral Presentation Award @ PolyU CRSC, 2024
 * Full Ph.D. Scholarship @ PolyU, 2022-Present
@@ -149,6 +172,7 @@ Honors & Awards
 
 Teaching Experience
 ======
+* COMP1010 Computational Thinking and Problem Solving, Teaching Assistant, 2025 Fall
 * COMP5434 Big Data Computing, Teaching Assistant, 2024 Fall
 * COMP5311 Internet Infrastructure And Protocols, Teaching Assistant, 2023 Fall
 * COMP1011 Programming Fundamentals, Teaching Assistant, 2023 Spring, 2024 Spring, 2025 Spring
