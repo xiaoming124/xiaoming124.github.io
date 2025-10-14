@@ -71,6 +71,7 @@ Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<b
 <a href="https://github.com/xiaoming124/Canas">[Code]</a>
 <a href="https://xiaoming124.github.io/files/mobisys25.bib">[Bib]</a>
 <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.key">[Slides]</a>
+<a href="https://www.youtube.com/watch?v=gJKJIpd0_VA">[Presentation]</a>
 <br>
 <br>
     </div>
