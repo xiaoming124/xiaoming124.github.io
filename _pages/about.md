@@ -48,10 +48,7 @@ Publications
 <b>SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks</b><br>
 Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<br>
 <i>The 33rd IEEE International Conference on Network Protocols, Seoul, South Korea, 2025</i><br>
-<!-- <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf">[PDF]</a>
-<a href="https://github.com/xiaoming124/Canas">[Code]</a>
-<a href="https://xiaoming124.github.io/files/Canas_MobiSys25.key">[Slides]</a> -->
-<br>
+<a href="https://xiaoming124.github.io/files/SlideLoRa_ICNP25.pdf">[PDF]</a><br>
 <br>
     </div>
 </div>
