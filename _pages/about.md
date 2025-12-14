@@ -49,6 +49,7 @@ Publications
 Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<br>
 <i>The 33rd IEEE International Conference on Network Protocols, Seoul, South Korea, 2025</i><br>
 <a href="https://xiaoming124.github.io/files/SlideLoRa_ICNP25.pdf">[PDF]</a><br>
+<a href="https://xiaoming124.github.io/files/icnp25.bib">[Bib]</a>
 <br>
     </div>
 </div>
@@ -87,6 +88,7 @@ Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu<
 <i>The 31st Annual International Conference on Mobile Computing and Networking, Hong Kong, China, 2025</i><br>
 <a href="https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf">[PDF]</a>
 <a href="https://github.com/LeonaRnLi/HydraNet">[Code]</a>
+<a href="https://xiaoming124.github.io/files/mobicom25.bib">[Bib]</a>
 <br>
     </div>
 </div>
@@ -104,6 +106,7 @@ Reception in Urban Environments</b><br>
 Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
 <i>The 23rd ACM Conference on Embedded Networked Sensor Systems, Irvine, CA, USA, 2025</i><br>
 <a href="https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf">[PDF]</a>
+<a href="https://xiaoming124.github.io/files/sensys25.bib">[Bib]</a>
 <br>
     </div>
 </div>
