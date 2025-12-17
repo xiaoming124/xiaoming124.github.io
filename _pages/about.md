@@ -26,7 +26,7 @@ News
 
 * **[2024/09]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
 
-* **[2024/06]**: Won Best Oral Presentation Award @ PolyU CRSC 2024
+* **[2024/06]**: Awarded Best Oral Presentation Award @ PolyU CRSC 2024
 
 * **[2024/04]**: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.
 
@@ -166,9 +166,9 @@ Professional Services
 
 Honors & Awards
 ======
-* Winner (Rank 1) @ PolyU FCMS Three Minute Thesis (3MT) Competition, 2025
+* Winner (Rank 1) @ Three Minute Thesis (3MT) Competition, PolyU FCMS， 2025
 * Student Travel Grant @ ACM MobiCom, 2024
-* Best Oral Presentation Award @ PolyU CRSC, 2024
+* Best Oral Presentation Award @ Research Student Conference, PolyU COMP, 2024
 * Full Ph.D. Scholarship @ PolyU, 2022-Present
 * National Encouragement Scholarship @ UESTC, 2019
 * Outstanding Student Scholarship (Top 15%) @ UESTC, 2019
