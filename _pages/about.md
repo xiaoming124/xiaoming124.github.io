@@ -14,6 +14,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 News
 ======
+<!-- * **[2026/01]**: Completed Ph.D. thesis defense! -->
 * **[2025/07]**: Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.
 
 * **[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.
