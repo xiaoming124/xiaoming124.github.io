@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final year Ph. D. candidate at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My research interests include Low Power Wide Area Network (LPWAN), LoRa, Mobile Sensing.
+I am currently a Postdoctoral Research Associate at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My research interests include Low Power Wide Area Network (LPWAN), 5G Open RAN, Mobile Sensing and Networking.
 
 Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 News
 ======
-<!-- * **[2026/01]**: Completed Ph.D. thesis defense! -->
+* **[2026/01]**: Completed Ph.D. thesis defense!
+
 * **[2025/07]**: Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.
 
 * **[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.
