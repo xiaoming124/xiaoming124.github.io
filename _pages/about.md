@@ -154,7 +154,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 Professional Services
 ======
-**Program Committee Member**
+**Conference Organization / Program Committee Member**
 * ACM MobiCom Demo, 2025
 * ACM MobiCom Artifact Evaluation, 2024-25
 * ACM MobiSys Artifact Evaluation, 2024-25
