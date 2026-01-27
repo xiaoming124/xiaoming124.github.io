@@ -161,13 +161,14 @@ Professional Services
 
 **Invited Reviewer**
 * IEEE Transactions on Mobile Computing, 2025
-* ACM Transactions on Sensor Networks, 2023-25
+* ACM Transactions on Sensor Networks, 2023-26
 * IEEE Transactions on Wireless Communications, 2023
 * IEEE Internet of Things Journal, 2024-25
 * Computer Networks, 2023
 
 Honors & Awards
 ======
+* Distinguished Reviewer Board @ ACM TOSN 2026-2027
 * Winner (Rank 1) @ Three Minute Thesis (3MT) Competition, PolyU FCMS, 2025
 * Student Travel Grant @ ACM MobiCom, 2024
 * Best Oral Presentation Award @ Research Student Conference, PolyU COMP, 2024
