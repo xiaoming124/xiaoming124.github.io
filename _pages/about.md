@@ -40,8 +40,8 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 ======
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
-    <div style="width: 12%; background-color: none; padding: 5px 0px;">
+<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
+    <div style="width: 12%; background-color: none; padding: 0px;">
         <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 15px; background-color: #32a84e; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>ICNP’25</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
@@ -52,14 +52,12 @@ Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<b
 <i>The 33rd IEEE International Conference on Network Protocols, Seoul, South Korea, 2025</i><br>
 <a href="https://xiaoming124.github.io/files/SlideLoRa_ICNP25.pdf">[PDF]</a>
 <a href="https://xiaoming124.github.io/files/icnp25.bib">[Bib]</a>
-<br>
-<br>
     </div>
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
-    <div style="width: 12%; background-color: none; padding: 5px 0px;">
+<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
+    <div style="width: 12%; background-color: none; padding: 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobisys/2025/';" style="font-size: 15px; background-color: #3c90cc; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiSys’25</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
@@ -73,14 +71,12 @@ Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<b
 <a href="https://xiaoming124.github.io/files/mobisys25.bib">[Bib]</a>
 <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.key">[Slides]</a>
 <a href="https://www.youtube.com/watch?v=gJKJIpd0_VA">[Presentation]</a>
-<br>
-<br>
     </div>
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
-    <div style="width: 12%; background-color: none; padding: 5px 0px;">
+<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
+    <div style="width: 12%; background-color: none; padding: 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2025/';" style="font-size: 15px; background-color: #2f3982; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiCom’25</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
@@ -92,17 +88,16 @@ Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu<
 <a href="https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf">[PDF]</a>
 <a href="https://github.com/LeonaRnLi/HydraNet">[Code]</a>
 <a href="https://xiaoming124.github.io/files/mobicom25.bib">[Bib]</a>
-<br>
     </div>
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
-    <div style="width: 12%; background-color: none; padding: 25px 0px;">
+<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
+    <div style="width: 12%; background-color: none; padding: 0px;">
         <button type="button" onclick="location.href='https://sensys.acm.org/2025/';" style="font-size: 15px; background-color: #feae00; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SenSys’25</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+    <div style="width: 80%; background-color: none; padding: 0px 60px;">
         
 <b>MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa
 Reception in Urban Environments</b><br>
@@ -110,17 +105,16 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <i>The 23rd ACM Conference on Embedded Networked Sensor Systems, Irvine, CA, USA, 2025</i><br>
 <a href="https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf">[PDF]</a>
 <a href="https://xiaoming124.github.io/files/sensys25.bib">[Bib]</a>
-<br>
     </div>
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
-    <div style="width: 12%; background-color: none; padding: 25px 0px;">
+<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
+    <div style="width: 12%; background-color: none; padding: 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 15px; background-color: #2f3982; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiCom’24</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+    <div style="width: 80%; background-color: none; padding: 0px 60px;">
         
 <b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
 <u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu<br>
@@ -129,17 +123,16 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <a href="https://github.com/xiaoming124/XGate">[Code]</a>
 <a href="https://xiaoming124.github.io/files/mobicom24.bib">[Bib]</a>
 <a href="https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key">[Slides]</a>
-<br>
     </div>
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
-    <div style="width: 12%; background-color: none; padding: 25px 0px;">
+<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
+    <div style="width: 12%; background-color: none; padding: 0px;">
         <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 15px; background-color: #feae00; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SenSys’24</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 20px 60px;">
+    <div style="width: 80%; background-color: none; padding: 0px 60px;">
         
 <b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
 <u>Shiming Yu</u>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng<br>
@@ -147,7 +140,6 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <a href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf">[PDF]</a>
 <a href="https://xiaoming124.github.io/files/sensys24.bib">[Bib]</a>
 <a href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.key">[Slides]</a>
-<br>
     </div>
 </div>
 
