@@ -40,7 +40,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 ======
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+<div style="display: flex; border: 1px solid none; height: flex; margin: 15px 0; padding: 10px; border-radius: 6px; background-color: #f8f9fa; position: relative;">
     <div style="width: 12%; background-color: none; padding: 5px 0px;">
         <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 15px; background-color: #32a84e; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>ICNP’25</b></button>
     </div>
@@ -53,12 +53,11 @@ Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<b
 <a href="https://xiaoming124.github.io/files/SlideLoRa_ICNP25.pdf">[PDF]</a>
 <a href="https://xiaoming124.github.io/files/icnp25.bib">[Bib]</a>
 <br>
-<br>
     </div>
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+<div style="display: flex; border: 1px solid none; height: flex; margin: 15px 0; padding: 10px; border-radius: 6px; background-color: #f8f9fa; position: relative;">
     <div style="width: 12%; background-color: none; padding: 5px 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobisys/2025/';" style="font-size: 15px; background-color: #3c90cc; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiSys’25</b></button>
     </div>
@@ -74,12 +73,11 @@ Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<b
 <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.key">[Slides]</a>
 <a href="https://www.youtube.com/watch?v=gJKJIpd0_VA">[Presentation]</a>
 <br>
-<br>
     </div>
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+<div style="display: flex; border: 1px solid none; height: flex; margin: 15px 0; padding: 10px; border-radius: 6px; background-color: #f8f9fa; position: relative;">
     <div style="width: 12%; background-color: none; padding: 5px 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2025/';" style="font-size: 15px; background-color: #2f3982; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiCom’25</b></button>
     </div>
@@ -97,7 +95,7 @@ Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu<
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+<div style="display: flex; border: 1px solid none; height: flex; margin: 15px 0; padding: 10px; border-radius: 6px; background-color: #f8f9fa; position: relative;">
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://sensys.acm.org/2025/';" style="font-size: 15px; background-color: #feae00; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SenSys’25</b></button>
     </div>
@@ -115,7 +113,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+<div style="display: flex; border: 1px solid none; height: flex; margin: 15px 0; padding: 10px; border-radius: 6px; background-color: #f8f9fa; position: relative;">
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 15px; background-color: #2f3982; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiCom’24</b></button>
     </div>
@@ -134,7 +132,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 </div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
+<div style="display: flex; border: 1px solid none; height: flex; margin: 15px 0; padding: 10px; border-radius: 6px; background-color: #f8f9fa; position: relative;">
     <div style="width: 12%; background-color: none; padding: 25px 0px;">
         <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 15px; background-color: #feae00; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SenSys’24</b></button>
     </div>
