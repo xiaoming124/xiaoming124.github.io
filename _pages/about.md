@@ -12,7 +12,7 @@ I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong 
 
 Please find more about me in my [CV](files/CV_Shiming.pdf).
 
-News
+<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
 * **[2026/01]**: Completed Ph.D. thesis defense!
 
