@@ -41,7 +41,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 12%; background-color: none; padding: 0px;">
+    <div style="width: 12%; background-color: none; padding: 0px; margin-top:4px">
         <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 15px; background-color: #32a84e; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>ICNP’25</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
