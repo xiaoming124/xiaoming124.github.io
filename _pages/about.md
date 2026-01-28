@@ -36,7 +36,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 * **[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
 
-Publications
+<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Publications**
 ======
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
@@ -151,8 +151,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
     </div>
 </div>
 
-
-Professional Services
+<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Professional Services**
 ======
 **Conference Organization / Program Committee Member**
 * ACM MobiCom Demo, 2025
@@ -166,7 +165,7 @@ Professional Services
 * IEEE Internet of Things Journal, 2024-25
 * Computer Networks, 2023
 
-Honors & Awards
+<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Honors & Awards**
 ======
 * Distinguished Reviewer Board @ ACM TOSN 2026-2027
 * Winner (Rank 1) @ Three Minute Thesis (3MT) Competition, PolyU FCMS, 2025
@@ -177,7 +176,7 @@ Honors & Awards
 * Outstanding Student Scholarship (Top 15%) @ UESTC, 2019
 * Outstanding Student Scholarship (Top 15%) @ UESTC, 2020
 
-Teaching Experience
+<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Teaching Experience**
 ======
 * COMP1010 Computational Thinking and Problem Solving, Teaching Assistant, 2025 Fall
 * COMP5434 Big Data Computing, Teaching Assistant, 2024 Fall
@@ -185,7 +184,7 @@ Teaching Experience
 * COMP1011 Programming Fundamentals, Teaching Assistant, 2023 Spring, 2024 Spring, 2025 Spring
 * COMP1004 Introduction to Artificial Intelligence and Data Analytics, Teaching Assistant, 2022 Fall
 
-Contact
+<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Contact**
 ======
 Email: shiming.yu@connect.polyu.hk
 
