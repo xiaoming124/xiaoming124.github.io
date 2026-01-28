@@ -42,7 +42,7 @@ Publications
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; height: flex; margin: 0 0; position: relative;">
     <div style="width: 12%; background-color: none; padding: 5px 0px;">
-        <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 15px; background-color: #32a84e; color: white; width: 120px; border-radius: 3px; border: none;"><b>ICNP’25</b></button>
+        <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 15px; background-color: #32a84e; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;"><b>ICNP’25</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
     <div style="width: 80%; background-color: none; padding: 0px 60px;">
