@@ -14,6 +14,8 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
+* **[2026/02]**: Serve as the publicity co-chair of ACM/IEEE SEC 2026. Please consider to submit!
+
 * **[2026/01]**: Completed Ph.D. thesis defense!
 
 * **[2025/07]**: Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.
@@ -145,7 +147,10 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Professional Services**
 ======
-**Conference Organization / Program Committee Member**
+**Conference Organization**
+* Publicity Co-Chair, ACM/IEEE SEC 2026
+
+**Program Committee Member**
 * ACM MobiCom Demo, 2025
 * ACM MobiCom Artifact Evaluation, 2024-25
 * ACM MobiSys Artifact Evaluation, 2024-25
