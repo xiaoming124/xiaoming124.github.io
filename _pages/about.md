@@ -151,19 +151,26 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Professional Services**
 ======
 **Conference Organization**
-* Publicity Co-Chair, ACM/IEEE SEC 2026
+
+2026: Publicity Co-Chair for ACM/IEEE SEC
 
 **Program Committee Member**
-* ACM MobiCom Demo, 2025
-* ACM MobiCom Artifact Evaluation, 2024-25
-* ACM MobiSys Artifact Evaluation, 2024-25
 
-**Invited Reviewer**
-* IEEE Transactions on Mobile Computing, 2025
-* ACM Transactions on Sensor Networks, 2023-26
-* IEEE Transactions on Wireless Communications, 2023
-* IEEE Internet of Things Journal, 2024-25
-* Computer Networks, 2023
+2026: MobiSys Demo & AE, AutoSys Workshop @ MobiSys, HeadSys Workshop @ MobiSys
+
+2025: MobiCom Demo & AE, MobiSys AE
+
+2024: MobiCom AE, MobiSys AE
+
+**Journal Reviewer**
+
+2026: TOSN, TMC, JNCA, Computer Networks
+
+2025: TOSN, TMC, IoTJ
+
+2024: TOSN, IoTJ
+
+2023: TWC, TOSN, Computer Networks
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Honors & Awards**
 ======
