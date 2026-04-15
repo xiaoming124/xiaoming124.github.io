@@ -164,7 +164,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 **Journal Reviewer**
 
-2026: TOSN, TMC, JNCA, Computer Networks
+2026: TOSN, TMC, IMWUT, JNCA, Computer Networks
 
 2025: TOSN, TMC, IoTJ
 
