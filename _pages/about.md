@@ -174,7 +174,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 **Program Committee Member**
 
-2026: MSN, MobiCom AE, MobiSys Demo & AE, CCS AE
+2026: MSN, GPC, MobiCom AE, MobiSys Demo & AE, CCS AE
 
 2025: MobiCom Demo & AE, MobiSys AE
 
