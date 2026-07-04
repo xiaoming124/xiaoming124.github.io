@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My research interests include AIoT and Wireless Networking.
+I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My research interests include AIoT, Wireless Networking, 5G/6G Open RAN.
 
 Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
+
+* **[2026/07]**: Our paper *RANPilot* is accepted by **ACM SIGCOMM 2026**.
 
 * **[2026/04]**: I'm honored to be recognized as one of the MobiSys’26 Rising Star!
 
@@ -45,6 +47,20 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Publications**
 ======
+
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
+    <div style="width: 12%; background-color: none; padding: 0px; margin-top:4px">
+        <button type="button" onclick="location.href='https://conferences.sigcomm.org/sigcomm/2026/';" style="font-size: 15px; background-color: #8e1a27; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SIGCOMM’26</b></button>
+    </div>
+    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
+    <div style="width: 80%; background-color: none; padding: 0px 60px;">
+        
+<b>RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations</b><br>
+<u>Shiming Yu</u>, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie<br>
+<i>ACM SIGCOMM 2026 Conference, August 17--21, 2026, Denver, CO, USA, 2026</i><br>
+    </div>
+</div>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
@@ -158,7 +174,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 **Program Committee Member**
 
-2026: MobiSys Demo & AE, AutoSys Workshop @ MobiSys, HeadSys Workshop @ MobiSys
+2026: MSN, MobiCom AE, MobiSys Demo & AE, CCS AE
 
 2025: MobiCom Demo & AE, MobiSys AE
 
