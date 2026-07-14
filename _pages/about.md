@@ -59,6 +59,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 <b>RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations</b><br>
 <u>Shiming Yu</u>, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie<br>
 <i>ACM SIGCOMM 2026 Conference, Denver, CO, USA, 2026</i><br>
+<a href="https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf">[PDF]</a>
     </div>
 </div>
 
