@@ -50,11 +50,11 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 12%; background-color: none; padding: 0px; margin-top:4px">
+    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
         <button type="button" onclick="location.href='https://conferences.sigcomm.org/sigcomm/2026/';" style="font-size: 15px; background-color: #8e1a27; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SIGCOMM’26</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 0px 60px;">
+    <div style="width: 84%; background-color: none; padding: 0px 60px;">
         
 <b>RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations</b><br>
 <u>Shiming Yu</u>, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie<br>
@@ -65,11 +65,11 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 12%; background-color: none; padding: 0px; margin-top:4px">
+    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
         <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 15px; background-color: #32a84e; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>ICNP’25</b></button>
     </div>
     <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 80%; background-color: none; padding: 0px 60px;">
+    <div style="width: 84%; background-color: none; padding: 0px 60px;">
         
 <b>SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks</b><br>
 Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<br>
@@ -213,6 +213,6 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Contact**
 ======
-Email: shiming.yu@connect.polyu.hk
-
-Address: QT404, Department of Computing, Chow Yei Ching Building, The Hong Kong Polytechnic University, Hong Kong SAR, China.
+> Email: shiming.yu@connect.polyu.hk
+>
+> Address: QT404, Department of Computing, Chow Yei Ching Building, The Hong Kong Polytechnic University, Hong Kong SAR, China.
