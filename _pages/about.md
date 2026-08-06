@@ -15,35 +15,35 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
 
-* **[2026/07]**: Our paper *RANPilot* is accepted by **ACM SIGCOMM 2026**.
+**[2026/07]**: Our paper *RANPilot* is accepted by **ACM SIGCOMM 2026**.
 
-* **[2026/04]**: I'm honored to be recognized as one of the MobiSys’26 Rising Star!
+**[2026/04]**: I'm honored to be recognized as one of the MobiSys’26 Rising Star!
 
-* **[2026/03]**: I'm honored to be selected as the Distinguished Reviewer Board of ACM Transactions on Sensor Networks (TOSN)!
+**[2026/03]**: I'm honored to be selected as the Distinguished Reviewer Board of ACM Transactions on Sensor Networks (TOSN)!
 
-* **[2026/02]**: Serve as the publicity co-chair of **ACM/IEEE SEC 2026**. Please consider to submit!
+**[2026/02]**: Serve as the publicity co-chair of **ACM/IEEE SEC 2026**. Please consider to submit!
 
-* **[2026/01]**: Completed Ph.D. thesis defense!
+**[2026/01]**: Completed Ph.D. thesis defense!
 
-* **[2025/07]**: Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.
+**[2025/07]**: Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.
 
-* **[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.
+**[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.
 
-* **[2025/03]**: Our paper *HydraNet* is accepted by **ACM MobiCom 2025** (41/240=17.08%).
+**[2025/03]**: Our paper *HydraNet* is accepted by **ACM MobiCom 2025** (41/240=17.08%).
 
-* **[2025/02]**: Our paper *MoLoRa* is accepted by **ACM SenSys 2025** (46/245=18.78%).
+**[2025/02]**: Our paper *MoLoRa* is accepted by **ACM SenSys 2025** (46/245=18.78%).
 
-* **[2024/10]**: Awarded ACM MobiCom 2024 Student Travel Grant.
+**[2024/10]**: Awarded ACM MobiCom 2024 Student Travel Grant.
 
-* **[2024/09]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
+**[2024/09]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
 
-* **[2024/06]**: Awarded Best Oral Presentation Award @ PolyU CRSC 2024
+**[2024/06]**: Awarded Best Oral Presentation Award @ PolyU CRSC 2024
 
-* **[2024/04]**: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.
+**[2024/04]**: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.
 
-* **[2024/02]**: Serve as ACM MobiCom 2024 Artifact Evaluation Committee.
+**[2024/02]**: Serve as ACM MobiCom 2024 Artifact Evaluation Committee.
 
-* **[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
+**[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Publications**
 ======
