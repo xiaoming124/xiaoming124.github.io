@@ -24,11 +24,11 @@ In the past, my research advances the following directions in wireless networkin
 
 * Reliable communication in complex wide-area deployment: [(MobiSys'25)](https://dl.acm.org/doi/abs/10.1145/3711875.3729125), [(TMC'25a)](https://ieeexplore.ieee.org/abstract/document/11160677), [(SenSys'25)](https://dl.acm.org/doi/abs/10.1145/3715014.3722075)
 
-* Scalable downlink communication framework: [(SenSys'24)](https://dl.acm.org/doi/abs/10.1145/3666025.3699338), [(TMC'25b)](https://ieeexplore.ieee.org/abstract/document/11008709), [(MobiCom'25)](https://dl.acm.org/doi/abs/10.1145/3680207.3723483)
+* Scalable downlink for diverse functionalities: [(SenSys'24)](https://dl.acm.org/doi/abs/10.1145/3666025.3699338), [(TMC'25b)](https://ieeexplore.ieee.org/abstract/document/11008709), [(MobiCom'25)](https://dl.acm.org/doi/abs/10.1145/3680207.3723483)
 
 **NextG Mobile Network (Open and AI RAN):**
 
-* AI functionality robustness: [(SIGCOMM'26)](https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf)
+* AI robustness under infrastructure evolution: [(SIGCOMM'26)](https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf)
 * Agentic control plane development: [(Arxiv'26)](https://arxiv.org/abs/2603.18604)
 
 
