@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
+<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Publication**
+======
 
 - **[SIGCOMM'26]** RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations  
   <u><strong>Shiming Yu</strong></u>, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie **<span style="color:red; font-weight:bold;">(CCF-A)</span>**
