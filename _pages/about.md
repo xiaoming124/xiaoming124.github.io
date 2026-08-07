@@ -13,7 +13,8 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
 
-My research aims to build the next-generation wireless network infrastructure, the scope include but are not limited to **AIoT**, **LPWAN**, **5G/6G**, **AI/ML for Networking**.
+My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure. 
+The scope include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
 
 In the past, my research advances the following directions in wireless networking:
 
@@ -25,7 +26,7 @@ In the past, my research advances the following directions in wireless networkin
 
 * Scalable downlink communication framework: [(SenSys'24)](https://dl.acm.org/doi/abs/10.1145/3666025.3699338), [(TMC'25b)](https://ieeexplore.ieee.org/abstract/document/11008709), [(MobiCom'25)](https://dl.acm.org/doi/abs/10.1145/3680207.3723483)
 
-**Cellular Network (5G/6G Open and AI RAN):**
+**NextG Mobile Network (Open and AI RAN):**
 
 * AI functionality robustness: [(SIGCOMM'26)](https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf)
 * Agentic control plane development: [(Arxiv'26)](https://arxiv.org/abs/2603.18604)
