@@ -5,12 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+- **[SIGCOMM'26]** RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations  
+  Shiming Yu, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie **<span style="color:red; font-weight:bold;">(CCF-A)</span>**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **[TMC'25]** Resolving Inter-Logical Channel Interference for Large-scale LoRa Deployments  
+  Shiming Yu, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang **<span style="color:red; font-weight:bold;">(CCF-A)</span>**
+
+- **[ICNP'25]** SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks  
+  Jiamin Jiang, Shiming Yu, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang **<span style="color:red; font-weight:bold;">(CCF-B)</span>**
+
+- **[TMC'25]** FDLoRa: Scaling Downlink Concurrent Transmissions with Full-duplex LoRa Gateways  
+  Shiming Yu, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng **<span style="color:red; font-weight:bold;">(CCF-A)</span>**
+
+- **[TON'25]** XGate: Scaling LoRa Communications to Massive Logical Channels  
+  Shiming Yu, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu **<span style="color:red; font-weight:bold;">(CCF-A)</span>**
+
+- **[MobiSys'25]** Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels  
+  Shiming Yu, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang **<span style="color:red; font-weight:bold;">(CCF-B)</span>**
+
+- **[SenSys'25]** MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa Reception in Urban Environments  
+  Ningning Hou, Yifeng Wang, Xianjin Xia, Shiming Yu, Yuanqing Zheng, Tao Gu **<span style="color:red; font-weight:bold;">(CCF-B)</span>**
+
+- **[MobiCom'25]** From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs  
+  Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, Shiming Yu, Yuanqing Zheng, Tao Gu **<span style="color:red; font-weight:bold;">(CCF-A)</span>**
+
+- **[MobiCom'24]** Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels  
+  Shiming Yu, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu **<span style="color:red; font-weight:bold;">(CCF-A)</span>**
+
+- **[SenSys'24]** FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways  
+  Shiming Yu, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng **<span style="color:red; font-weight:bold;">(CCF-B)</span>**
