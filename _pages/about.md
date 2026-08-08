@@ -20,7 +20,7 @@ In the past, my research advances the following directions in wireless networkin
 
 **IoT Network (LoRa, LPWAN):**
         
-* Software-defined gateway for capacity scaling: [(MobiCom'24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649375), [(ToN'25)](https://ieeexplore.ieee.org/abstract/document/11003802), [(ICNP'25)](https://ieeexplore.ieee.org/abstract/document/11192378)
+* Software-defined gateway for capacity scaling: [(MobiCom'24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649375), [(TON'25)](https://ieeexplore.ieee.org/abstract/document/11003802), [(ICNP'25)](https://ieeexplore.ieee.org/abstract/document/11192378)
 
 * Reliable communication in complex wide-area deployment: [(MobiSys'25)](https://dl.acm.org/doi/abs/10.1145/3711875.3729125), [(TMC'25a)](https://ieeexplore.ieee.org/abstract/document/11160677), [(SenSys'25)](https://dl.acm.org/doi/abs/10.1145/3715014.3722075)
 
