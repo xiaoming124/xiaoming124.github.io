@@ -115,8 +115,6 @@ Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<b
 <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf">[PDF]</a>
 <a href="https://github.com/xiaoming124/Canas">[Code]</a>
 <a href="https://xiaoming124.github.io/files/mobisys25.bib">[Bib]</a>
-<a href="https://xiaoming124.github.io/files/Canas_MobiSys25.key">[Slides]</a>
-<a href="https://www.youtube.com/watch?v=gJKJIpd0_VA">[Presentation]</a>
     </div>
 </div>
 
@@ -168,7 +166,6 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <a href="https://xiaoming124.github.io/files/XGate_MobiCom24.pdf">[PDF]</a>
 <a href="https://github.com/xiaoming124/XGate">[Code]</a>
 <a href="https://xiaoming124.github.io/files/mobicom24.bib">[Bib]</a>
-<a href="https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key">[Slides]</a>
     </div>
 </div>
 
@@ -185,7 +182,6 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 <i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
 <a href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf">[PDF]</a>
 <a href="https://xiaoming124.github.io/files/sensys24.bib">[Bib]</a>
-<a href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.key">[Slides]</a>
     </div>
 </div>
 
