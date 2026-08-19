@@ -22,7 +22,7 @@ In the past, my research advances the following directions in wireless networkin
         
 * Software-defined gateway for capacity scaling: [(MobiCom'24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649375), [(TON'25)](https://ieeexplore.ieee.org/abstract/document/11003802), [(ICNP'25)](https://ieeexplore.ieee.org/abstract/document/11192378)
 
-* Reliable communication in complex wide-area deployment: [(MobiSys'25)](https://dl.acm.org/doi/abs/10.1145/3711875.3729125), [(TMC'25a)](https://ieeexplore.ieee.org/abstract/document/11160677), [(SenSys'25)](https://dl.acm.org/doi/abs/10.1145/3715014.3722075)
+* Reliable communication in complex environment: [(MobiSys'25)](https://dl.acm.org/doi/abs/10.1145/3711875.3729125), [(TMC'25a)](https://ieeexplore.ieee.org/abstract/document/11160677), [(SenSys'25)](https://dl.acm.org/doi/abs/10.1145/3715014.3722075)
 
 * Scalable downlink for diverse functionalities: [(SenSys'24)](https://dl.acm.org/doi/abs/10.1145/3666025.3699338), [(TMC'25b)](https://ieeexplore.ieee.org/abstract/document/11008709), [(MobiCom'25)](https://dl.acm.org/doi/abs/10.1145/3680207.3723483)
 
