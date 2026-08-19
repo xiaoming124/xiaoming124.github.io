@@ -8,17 +8,21 @@ author_profile: true
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Talks**
 ======
 
+- RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations
+
+  ACM SIGCOMM 2026, Denver, CO, USA <a href="https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.key">[Slides]</a><a href="https://www.youtube.com/watch?v=LJ35dX_XbWc">[Video]</a>
+
 - Scalable Agricultural Internet of Things Communication System (规模化农业物联网通信系统)
 
   CWSN 2026, Harbin, China
 
 - Towards Multi-functional Internet of Things with Long-range Scalable Downlink
 
-  PolyU Three Minute Thesis (3MT) Competition **<span style="color:red; font-weight:bold;">(Rand #1 @ FCMS)</span>**
+  PolyU Three Minute Thesis (3MT) Competition **<span style="color:red; font-weight:bold;">(Winner - Rank #1 @ FCMS)</span>**
 
 - Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels
 
-  ACM MobiSys 2025, Anaheim, CA, USA <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.key">[Slides]</a><a href="https://www.youtube.com/watch?v=gJKJIpd0_VA">[Presentation]</a>
+  ACM MobiSys 2025, Anaheim, CA, USA <a href="https://xiaoming124.github.io/files/Canas_MobiSys25.key">[Slides]</a><a href="https://www.youtube.com/watch?v=gJKJIpd0_VA">[Video]</a>
 
 - Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels
 
