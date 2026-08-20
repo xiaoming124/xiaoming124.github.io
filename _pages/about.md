@@ -67,7 +67,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 **[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
 
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Selected Publications**
+<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Selected Publications** [(Complete List)](https://xiaoming124.github.io/publications)
 ======
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
