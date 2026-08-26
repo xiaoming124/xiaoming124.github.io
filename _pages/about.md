@@ -37,6 +37,9 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
 
+**[2026/08]**: I'm honored to be awarded the COMP PhD Thesis
+Outstanding Award!.
+
 **[2026/07]**: Our paper *RANPilot* is accepted by **ACM SIGCOMM 2026**.
 
 **[2026/04]**: I'm honored to be recognized as one of the MobiSys’26 Rising Star!
@@ -212,6 +215,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Honors & Awards**
 ======
+* PhD Thesis Outstanding Award @ PolyU COMP, 2026
 * Rising Star @ ACM MobiSys, 2026
 * Distinguished Reviewer Board @ ACM TOSN 2026-2027
 * Winner (Rank 1) @ Three Minute Thesis (3MT) Competition, PolyU FCMS, 2025
