@@ -14,7 +14,7 @@ redirect_from:
 I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
 
 My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure. 
-The scope include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
+The scopes include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
 
 In the past, my research advances the following directions in wireless networking:
 
