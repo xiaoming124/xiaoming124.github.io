@@ -38,7 +38,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 ======
 
 **[2026/08]**: I'm honored to be awarded the COMP PhD Thesis
-Outstanding Award!.
+Outstanding Award!
 
 **[2026/07]**: Our paper *RANPilot* is accepted by **ACM SIGCOMM 2026**.
 
