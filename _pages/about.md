@@ -221,7 +221,7 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 * Winner (Rank 1) @ Three Minute Thesis (3MT) Competition, PolyU FCMS, 2025
 * Student Travel Grant @ ACM MobiCom, 2024
 * Best Oral Presentation Award @ Research Student Conference, PolyU COMP, 2024
-* Full Ph.D. Scholarship @ PolyU, 2022-Present
+* Full Ph.D. Scholarship @ PolyU, 2022-2026
 * National Encouragement Scholarship @ UESTC, 2019
 * Outstanding Student Scholarship (Top 15%) @ UESTC, 2019
 * Outstanding Student Scholarship (Top 15%) @ UESTC, 2020
