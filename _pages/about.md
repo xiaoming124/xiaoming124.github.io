@@ -37,7 +37,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
 
-**[2026/08]**: I'm honored to be awarded the ACM SIGBED China Doctoral Dissertation Award!
+**[2026/09]**: I'm honored to be awarded the ACM SIGBED China Doctoral Dissertation Award!
 
 **[2026/08]**: I'm honored to be awarded the COMP PhD Thesis
 Outstanding Award!
