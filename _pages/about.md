@@ -78,120 +78,144 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Selected Publications** [(Complete List)](https://xiaoming124.github.io/publications)
 ======
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://conferences.sigcomm.org/sigcomm/2026/';" style="font-size: 15px; background-color: #8e1a27; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SIGCOMM’26</b></button>
+<style>
+.pub-list{display:flex;flex-direction:column;gap:14px;margin:20px 0;}
+.pub-item{display:flex;gap:16px;align-items:flex-start;padding:14px 16px;background:#fff;border:1px solid #ececec;border-left:4px solid var(--vc);border-radius:10px;box-shadow:0 1px 2px rgba(0,0,0,.03);transition:box-shadow .18s ease,transform .18s ease;}
+.pub-item:hover{box-shadow:0 4px 14px rgba(0,0,0,.07);transform:translateY(-1px);}
+.pub-venue{flex:0 0 96px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:8px 0;background:var(--vc);border-radius:7px;color:#fff;text-align:center;}
+.pub-venue-name{font-size:12.5px;font-weight:700;letter-spacing:.3px;line-height:1.2;}
+.pub-venue-year{font-size:11.5px;opacity:.85;line-height:1.2;}
+.pub-content{flex:1 1 auto;min-width:0;}
+.pub-title{font-size:15px;font-weight:600;line-height:1.45;color:#1f2328;margin-bottom:5px;}
+.pub-authors{font-size:13px;line-height:1.55;color:#57606a;margin-bottom:4px;}
+.pub-me{font-weight:700;color:#1f6feb;}
+.pub-meta{font-size:12.5px;color:#8b949e;font-style:italic;margin-bottom:9px;}
+.pub-links{display:flex;flex-wrap:wrap;gap:7px;}
+.pub-link{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:500;line-height:1;padding:4px 10px;border-radius:999px;border:1px solid #e1e4e8;background:#fff;color:#57606a !important;text-decoration:none !important;transition:all .15s ease;}
+.pub-link:hover{transform:translateY(-1px);}
+.pub-link i{font-size:11px;}
+.pub-link-pdf{color:#b3261e !important;border-color:#f3cfcb;background:#fdf4f3;}
+.pub-link-pdf:hover{background:#fbe9e7;border-color:#eeb8b2;}
+.pub-link-code{color:#24292f !important;border-color:#d8dee4;background:#f6f8fa;}
+.pub-link-code:hover{background:#eef1f4;border-color:#c9d1d9;}
+.pub-link-bib{color:#6a4c93 !important;border-color:#ddd0ee;background:#f8f4fd;}
+.pub-link-bib:hover{background:#f1e9fb;border-color:#cfbce8;}
+@media(max-width:560px){
+  .pub-item{flex-direction:column;gap:10px;}
+  .pub-venue{flex-direction:row;gap:6px;width:auto;align-self:flex-start;padding:4px 11px;}
+}
+</style>
+
+<div class="pub-list">
+
+<div class="pub-item" style="--vc:#8e1a27;">
+  <div class="pub-venue">
+    <span class="pub-venue-name">SIGCOMM’26</span>
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations</div>
+    <div class="pub-authors"><span class="pub-me">Shiming Yu</span>, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie</div>
+    <div class="pub-meta">ACM SIGCOMM 2026 Conference · Denver, CO, USA</div>
+    <div class="pub-links">
+      <a class="pub-link pub-link-pdf" href="https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a class="pub-link pub-link-bib" href="https://xiaoming124.github.io/files/sigcomm26.bib"><i class="fas fa-quote-right"></i> Bib</a>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations</b><br>
-<u>Shiming Yu</u>, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie<br>
-<i>ACM SIGCOMM 2026 Conference, Denver, CO, USA, 2026</i><br>
-<a href="https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf">[PDF]</a>
-<a href="https://xiaoming124.github.io/files/sigcomm26.bib">[Bib]</a>
-    </div>
+  </div>
 </div>
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 15px; background-color: #32a84e; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>ICNP’25</b></button>
+<div class="pub-item" style="--vc:#32a84e;">
+  <div class="pub-venue">
+    <span class="pub-venue-name">ICNP’25</span>
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks</div>
+    <div class="pub-authors">Jiamin Jiang, <span class="pub-me">Shiming Yu</span>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang</div>
+    <div class="pub-meta">The 33rd IEEE International Conference on Network Protocols · Seoul, South Korea</div>
+    <div class="pub-links">
+      <a class="pub-link pub-link-pdf" href="https://xiaoming124.github.io/files/SlideLoRa_ICNP25.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a class="pub-link pub-link-bib" href="https://xiaoming124.github.io/files/icnp25.bib"><i class="fas fa-quote-right"></i> Bib</a>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks</b><br>
-Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<br>
-<i>The 33rd IEEE International Conference on Network Protocols, Seoul, South Korea, 2025</i><br>
-<a href="https://xiaoming124.github.io/files/SlideLoRa_ICNP25.pdf">[PDF]</a>
-<a href="https://xiaoming124.github.io/files/icnp25.bib">[Bib]</a>
-    </div>
+  </div>
 </div>
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px;margin-top:4px">
-        <button type="button" onclick="location.href='https://www.sigmobile.org/mobisys/2025/';" style="font-size: 15px; background-color: #3c90cc; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiSys’25</b></button>
+<div class="pub-item" style="--vc:#3c90cc;">
+  <div class="pub-venue">
+    <span class="pub-venue-name">MobiSys’25</span>
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels</div>
+    <div class="pub-authors"><span class="pub-me">Shiming Yu</span>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang</div>
+    <div class="pub-meta">The 23rd ACM International Conference on Mobile Systems, Applications, and Services · Anaheim, CA, USA</div>
+    <div class="pub-links">
+      <a class="pub-link pub-link-pdf" href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a class="pub-link pub-link-code" href="https://github.com/xiaoming124/Canas"><i class="fab fa-github"></i> Code</a>
+      <a class="pub-link pub-link-bib" href="https://xiaoming124.github.io/files/mobisys25.bib"><i class="fas fa-quote-right"></i> Bib</a>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels</b><br>
-<u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
-<i>The 23rd ACM International Conference on Mobile Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
-<a href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf">[PDF]</a>
-<a href="https://github.com/xiaoming124/Canas">[Code]</a>
-<a href="https://xiaoming124.github.io/files/mobisys25.bib">[Bib]</a>
-    </div>
+  </div>
 </div>
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2025/';" style="font-size: 15px; background-color: #2f3982; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiCom’25</b></button>
+<div class="pub-item" style="--vc:#2f3982;">
+  <div class="pub-venue">
+    <span class="pub-venue-name">MobiCom’25</span>
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</div>
+    <div class="pub-authors">Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <span class="pub-me">Shiming Yu</span>, Yuanqing Zheng, Tao Gu</div>
+    <div class="pub-meta">The 31st Annual International Conference on Mobile Computing and Networking · Hong Kong, China</div>
+    <div class="pub-links">
+      <a class="pub-link pub-link-pdf" href="https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a class="pub-link pub-link-code" href="https://github.com/LeonaRnLi/HydraNet"><i class="fab fa-github"></i> Code</a>
+      <a class="pub-link pub-link-bib" href="https://xiaoming124.github.io/files/mobicom25.bib"><i class="fas fa-quote-right"></i> Bib</a>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</b><br>
-Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
-<i>The 31st Annual International Conference on Mobile Computing and Networking, Hong Kong, China, 2025</i><br>
-<a href="https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf">[PDF]</a>
-<a href="https://github.com/LeonaRnLi/HydraNet">[Code]</a>
-<a href="https://xiaoming124.github.io/files/mobicom25.bib">[Bib]</a>
-    </div>
+  </div>
 </div>
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://sensys.acm.org/2025/';" style="font-size: 15px; background-color: #feae00; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SenSys’25</b></button>
+<div class="pub-item" style="--vc:#feae00;">
+  <div class="pub-venue">
+    <span class="pub-venue-name">SenSys’25</span>
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa Reception in Urban Environments</div>
+    <div class="pub-authors">Ningning Hou, Yifeng Wang, Xianjin Xia, <span class="pub-me">Shiming Yu</span>, Yuanqing Zheng, Tao Gu</div>
+    <div class="pub-meta">The 23rd ACM Conference on Embedded Networked Sensor Systems · Irvine, CA, USA</div>
+    <div class="pub-links">
+      <a class="pub-link pub-link-pdf" href="https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a class="pub-link pub-link-bib" href="https://xiaoming124.github.io/files/sensys25.bib"><i class="fas fa-quote-right"></i> Bib</a>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa
-Reception in Urban Environments</b><br>
-Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
-<i>The 23rd ACM Conference on Embedded Networked Sensor Systems, Irvine, CA, USA, 2025</i><br>
-<a href="https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf">[PDF]</a>
-<a href="https://xiaoming124.github.io/files/sensys25.bib">[Bib]</a>
-    </div>
+  </div>
 </div>
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 15px; background-color: #2f3982; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiCom’24</b></button>
+<div class="pub-item" style="--vc:#2f3982;">
+  <div class="pub-venue">
+    <span class="pub-venue-name">MobiCom'24</span>
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</div>
+    <div class="pub-authors"><span class="pub-me">Shiming Yu</span>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu</div>
+    <div class="pub-meta">The 30th Annual International Conference on Mobile Computing and Networking · Washington D.C., USA</div>
+    <div class="pub-links">
+      <a class="pub-link pub-link-pdf" href="https://xiaoming124.github.io/files/XGate_MobiCom24.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a class="pub-link pub-link-code" href="https://github.com/xiaoming124/XGate"><i class="fab fa-github"></i> Code</a>
+      <a class="pub-link pub-link-bib" href="https://xiaoming124.github.io/files/mobicom24.bib"><i class="fas fa-quote-right"></i> Bib</a>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
-<u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu<br>
-<i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
-<a href="https://xiaoming124.github.io/files/XGate_MobiCom24.pdf">[PDF]</a>
-<a href="https://github.com/xiaoming124/XGate">[Code]</a>
-<a href="https://xiaoming124.github.io/files/mobicom24.bib">[Bib]</a>
-    </div>
+  </div>
 </div>
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 15px; background-color: #feae00; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SenSys’24</b></button>
+<div class="pub-item" style="--vc:#feae00;">
+  <div class="pub-venue">
+    <span class="pub-venue-name">SenSys’24</span>
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</div>
+    <div class="pub-authors"><span class="pub-me">Shiming Yu</span>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng</div>
+    <div class="pub-meta">The 22nd ACM Conference on Embedded Networked Sensor Systems · Hangzhou, China</div>
+    <div class="pub-links">
+      <a class="pub-link pub-link-pdf" href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a class="pub-link pub-link-bib" href="https://xiaoming124.github.io/files/sensys24.bib"><i class="fas fa-quote-right"></i> Bib</a>
     </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
-<u>Shiming Yu</u>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng<br>
-<i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
-<a href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf">[PDF]</a>
-<a href="https://xiaoming124.github.io/files/sensys24.bib">[Bib]</a>
-    </div>
+  </div>
+</div>
+
 </div>
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Professional Services**
