@@ -11,27 +11,29 @@ redirect_from:
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Biography**
 ======
 
-> I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
->
-> My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure. 
-> The scopes include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
+<div style="padding: 14px 16px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; margin-bottom: 18px; line-height: 1.7;">
+  <p style="margin: 0 0 12px 0;">I am currently a Postdoctoral Fellow at Department of Computing, <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University (PolyU)</a>. I received my Ph.D. from the same department, advised by my insightful supervisor <a href="https://www4.comp.polyu.edu.hk/~csyqzheng/">Prof. Yuanqing Zheng</a>. I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>.</p>
+  <p style="margin: 0;">My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure. The scopes include but are not limited to <strong>AIoT</strong>, <strong>5G/6G Mobile Network</strong>, <strong>AI/ML for Networking</strong>.</p>
+</div>
 
-> In the past, my research advances the following directions in wireless networking:
-> 
-> **IoT Network (LoRa, LPWAN):**
->       
-> * Software-defined gateway for capacity scaling: [(MobiCom'24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649375), [(TON'25)](https://ieeexplore.ieee.org/abstract/document/11003802), [(ICNP'25)](https://ieeexplore.ieee.org/abstract/document/11192378)
->
-> * Reliable communication in complex environment: [(MobiSys'25)](https://dl.acm.org/doi/abs/10.1145/3711875.3729125), [(TMC'25a)](https://ieeexplore.ieee.org/abstract/document/11160677), [(SenSys'25)](https://dl.acm.org/doi/abs/10.1145/3715014.3722075)
->
-> * Scalable downlink for diverse functionalities: [(SenSys'24)](https://dl.acm.org/doi/abs/10.1145/3666025.3699338), [(TMC'25b)](https://ieeexplore.ieee.org/abstract/document/11008709), [(MobiCom'25)](https://dl.acm.org/doi/abs/10.1145/3680207.3723483)
->
->**NextG Mobile Network (Open and AI RAN):**
->
-> * AI robustness under infrastructure evolution: [(SIGCOMM'26)](https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf)
-> * Agentic control plane development: [(Arxiv'26)](https://arxiv.org/abs/2603.18604)
->
-> Please find more about me in my [CV](files/CV_Shiming.pdf).
+<div style="padding: 14px 16px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; line-height: 1.7;">
+  <p style="margin: 0 0 10px 0;">In the past, my research advances the following directions in wireless networking:</p>
+
+  <p style="margin: 0 0 6px 0;"><strong>IoT Network (LoRa, LPWAN):</strong></p>
+  <ul style="margin: 0 0 14px 0; padding-left: 22px;">
+    <li style="margin-bottom: 6px;">Software-defined gateway for capacity scaling: <a href="https://dl.acm.org/doi/abs/10.1145/3636534.3649375">(MobiCom'24)</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11003802">(TON'25)</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11192378">(ICNP'25)</a></li>
+    <li style="margin-bottom: 6px;">Reliable communication in complex environment: <a href="https://dl.acm.org/doi/abs/10.1145/3711875.3729125">(MobiSys'25)</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11160677">(TMC'25a)</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722075">(SenSys'25)</a></li>
+    <li style="margin-bottom: 0;">Scalable downlink for diverse functionalities: <a href="https://dl.acm.org/doi/abs/10.1145/3666025.3699338">(SenSys'24)</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11008709">(TMC'25b)</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3680207.3723483">(MobiCom'25)</a></li>
+  </ul>
+
+  <p style="margin: 0 0 6px 0;"><strong>NextG Mobile Network (Open and AI RAN):</strong></p>
+  <ul style="margin: 0 0 14px 0; padding-left: 22px;">
+    <li style="margin-bottom: 6px;">AI robustness under infrastructure evolution: <a href="https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf">(SIGCOMM'26)</a></li>
+    <li style="margin-bottom: 0;">Agentic control plane development: <a href="https://arxiv.org/abs/2603.18604">(Arxiv'26)</a></li>
+  </ul>
+
+  <p style="margin: 0;">Please find more about me in my <a href="files/CV_Shiming.pdf">CV</a>.</p>
+</div>
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
