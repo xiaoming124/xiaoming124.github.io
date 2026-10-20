@@ -37,40 +37,43 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
 
-**[2026/09]**: I'm honored to be awarded the ACM SIGBED China Doctoral Dissertation Award!
+<div style="height: 340px; overflow-y: auto; padding: 12px 14px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; box-sizing: border-box; scrollbar-width: thin; scrollbar-color: #c1c1c1 #f1f1f1;">
 
-**[2026/08]**: I'm honored to be awarded the COMP PhD Thesis
-Outstanding Award!
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/09]</strong>: I'm honored to be awarded the ACM SIGBED China Doctoral Dissertation Award!</p>
 
-**[2026/07]**: Our paper *RANPilot* is accepted by **ACM SIGCOMM 2026**.
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/08]</strong>: I'm honored to be awarded the COMP PhD Thesis Outstanding Award!</p>
 
-**[2026/04]**: I'm honored to be recognized as one of the MobiSys’26 Rising Star!
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/07]</strong>: Our paper <em>RANPilot</em> is accepted by <strong>ACM SIGCOMM 2026</strong>.</p>
 
-**[2026/03]**: I'm honored to be selected as the Distinguished Reviewer Board of ACM Transactions on Sensor Networks (TOSN)!
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/04]</strong>: I'm honored to be recognized as one of the MobiSys’26 Rising Star!</p>
 
-**[2026/02]**: Serve as the publicity co-chair of **ACM/IEEE SEC 2026**. Please consider to submit!
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/03]</strong>: I'm honored to be selected as the Distinguished Reviewer Board of ACM Transactions on Sensor Networks (TOSN)!</p>
 
-**[2026/01]**: Completed Ph.D. thesis defense!
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/02]</strong>: Serve as the publicity co-chair of <strong>ACM/IEEE SEC 2026</strong>. Please consider to submit!</p>
 
-**[2025/07]**: Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/01]</strong>: Completed Ph.D. thesis defense!</p>
 
-**[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2025/07]</strong>: Our paper <em>SlideLoRa</em> is accepted by <strong>IEEE ICNP 2025</strong> (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.</p>
 
-**[2025/03]**: Our paper *HydraNet* is accepted by **ACM MobiCom 2025** (41/240=17.08%).
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2025/04]</strong>: Our paper <em>Canas</em> is accepted by <strong>ACM MobiSys 2025</strong> (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.</p>
 
-**[2025/02]**: Our paper *MoLoRa* is accepted by **ACM SenSys 2025** (46/245=18.78%).
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2025/03]</strong>: Our paper <em>HydraNet</em> is accepted by <strong>ACM MobiCom 2025</strong> (41/240=17.08%).</p>
 
-**[2024/10]**: Awarded ACM MobiCom 2024 Student Travel Grant.
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2025/02]</strong>: Our paper <em>MoLoRa</em> is accepted by <strong>ACM SenSys 2025</strong> (46/245=18.78%).</p>
 
-**[2024/09]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2024/10]</strong>: Awarded ACM MobiCom 2024 Student Travel Grant.</p>
 
-**[2024/06]**: Awarded Best Oral Presentation Award @ PolyU CRSC 2024
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2024/09]</strong>: Our paper <em>FDLoRa</em> is accepted by <strong>ACM SenSys 2024</strong> (58/313=18.53%).</p>
 
-**[2024/04]**: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2024/06]</strong>: Awarded Best Oral Presentation Award @ PolyU CRSC 2024</p>
 
-**[2024/02]**: Serve as ACM MobiCom 2024 Artifact Evaluation Committee.
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2024/04]</strong>: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.</p>
 
-**[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2024/02]</strong>: Serve as ACM MobiCom 2024 Artifact Evaluation Committee.</p>
+
+<p style="margin: 0; line-height: 1.65;"><strong>[2023/11]</strong>: Our paper <em>XGate</em> is accepted by <strong>ACM MobiCom 2024</strong> (103/494=20.85%).</p>
+
+</div>
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Selected Publications** [(Complete List)](https://xiaoming124.github.io/publications)
 ======
