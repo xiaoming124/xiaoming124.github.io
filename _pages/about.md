@@ -84,10 +84,10 @@ redirect_from:
 .pub-item{display:flex;gap:16px;align-items:flex-start;padding:14px 16px;background:#fff;border:1px solid #ececec;border-left:4px solid var(--vc);border-radius:10px;box-shadow:0 1px 2px rgba(0,0,0,.03);transition:box-shadow .18s ease,transform .18s ease;}
 .pub-item:hover{box-shadow:0 4px 14px rgba(0,0,0,.07);transform:translateY(-1px);}
 .pub-venue{flex:0 0 108px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:9px 0;background:var(--vc);border-radius:7px;color:#fff;text-align:center;}
-.pub-venue-name{font-size:14px;font-weight:700;letter-spacing:.3px;line-height:1.2;}
+.pub-venue-name{font-size:16px;font-weight:700;letter-spacing:.3px;line-height:1.2;}
 .pub-venue-year{font-size:12.5px;opacity:.85;line-height:1.2;}
 .pub-content{flex:1 1 auto;min-width:0;}
-.pub-title{font-size:17px;font-weight:600;line-height:1.45;color:#1f2328;margin-bottom:6px;}
+.pub-title{font-size:15px;font-weight:600;line-height:1.45;color:#1f2328;margin-bottom:6px;}
 .pub-authors{font-size:14.5px;line-height:1.6;color:#57606a;margin-bottom:5px;}
 .pub-me{font-weight:700;color:#1f6feb;}
 .pub-meta{font-size:13.5px;color:#8b949e;font-style:italic;margin-bottom:10px;}
