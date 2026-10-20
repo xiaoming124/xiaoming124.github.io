@@ -16,7 +16,7 @@ redirect_from:
   <p style="margin: 0;">My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure. The scopes include but are not limited to <strong>AIoT</strong>, <strong>5G/6G Mobile Network</strong>, <strong>AI/ML for Networking</strong>.</p>
 </div>
 
-<div style="padding: 14px 16px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; line-height: 1.7;">
+<div style="padding: 14px 16px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; line-height: 1.7;margin-bottom: 25px;">
   <p style="margin: 0 0 10px 0;">In the past, my research advances the following directions in wireless networking:</p>
 
   <p style="margin: 0 0 6px 0;"><strong>IoT Network (LoRa, LPWAN):</strong></p>
