@@ -40,7 +40,7 @@ redirect_from:
 
 <div style="height: 340px; overflow-y: auto; padding: 12px 14px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; box-sizing: border-box; scrollbar-width: thin; scrollbar-color: #c1c1c1 #f1f1f1; margin-bottom: 25px;">
 
-<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/09]</strong>: I'm honored to be awarded the ACM SIGBED China Doctoral Dissertation Award!</p>
+<p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/09]</strong>: I'm honored to be awarded the <strong>ACM SIGBED China Doctoral Dissertation Award</strong>!</p>
 
 <p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/08]</strong>: I'm honored to be awarded the COMP PhD Thesis Outstanding Award!</p>
 
