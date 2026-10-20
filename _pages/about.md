@@ -11,33 +11,32 @@ redirect_from:
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Biography**
 ======
 
-I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
+> I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
+>
+> My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure. 
+> The scopes include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
 
-My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure. 
-The scopes include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
-
-In the past, my research advances the following directions in wireless networking:
-
-**IoT Network (LoRa, LPWAN):**
-        
-* Software-defined gateway for capacity scaling: [(MobiCom'24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649375), [(TON'25)](https://ieeexplore.ieee.org/abstract/document/11003802), [(ICNP'25)](https://ieeexplore.ieee.org/abstract/document/11192378)
-
-* Reliable communication in complex environment: [(MobiSys'25)](https://dl.acm.org/doi/abs/10.1145/3711875.3729125), [(TMC'25a)](https://ieeexplore.ieee.org/abstract/document/11160677), [(SenSys'25)](https://dl.acm.org/doi/abs/10.1145/3715014.3722075)
-
-* Scalable downlink for diverse functionalities: [(SenSys'24)](https://dl.acm.org/doi/abs/10.1145/3666025.3699338), [(TMC'25b)](https://ieeexplore.ieee.org/abstract/document/11008709), [(MobiCom'25)](https://dl.acm.org/doi/abs/10.1145/3680207.3723483)
-
-**NextG Mobile Network (Open and AI RAN):**
-
-* AI robustness under infrastructure evolution: [(SIGCOMM'26)](https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf)
-* Agentic control plane development: [(Arxiv'26)](https://arxiv.org/abs/2603.18604)
-
-
-Please find more about me in my [CV](files/CV_Shiming.pdf).
+> In the past, my research advances the following directions in wireless networking:
+> 
+> **IoT Network (LoRa, LPWAN):**
+>       
+> * Software-defined gateway for capacity scaling: [(MobiCom'24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649375), [(TON'25)](https://ieeexplore.ieee.org/abstract/document/11003802), [(ICNP'25)](https://ieeexplore.ieee.org/abstract/document/11192378)
+>
+> * Reliable communication in complex environment: [(MobiSys'25)](https://dl.acm.org/doi/abs/10.1145/3711875.3729125), [(TMC'25a)](https://ieeexplore.ieee.org/abstract/document/11160677), [(SenSys'25)](https://dl.acm.org/doi/abs/10.1145/3715014.3722075)
+>
+> * Scalable downlink for diverse functionalities: [(SenSys'24)](https://dl.acm.org/doi/abs/10.1145/3666025.3699338), [(TMC'25b)](https://ieeexplore.ieee.org/abstract/document/11008709), [(MobiCom'25)](https://dl.acm.org/doi/abs/10.1145/3680207.3723483)
+>
+>**NextG Mobile Network (Open and AI RAN):**
+>
+> * AI robustness under infrastructure evolution: [(SIGCOMM'26)](https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf)
+> * Agentic control plane development: [(Arxiv'26)](https://arxiv.org/abs/2603.18604)
+>
+> Please find more about me in my [CV](files/CV_Shiming.pdf).
 
 <span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
 ======
 
-<div style="height: 340px; overflow-y: auto; padding: 12px 14px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; box-sizing: border-box; scrollbar-width: thin; scrollbar-color: #c1c1c1 #f1f1f1;">
+<div style="height: 340px; overflow-y: auto; padding: 12px 14px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; box-sizing: border-box; scrollbar-width: thin; scrollbar-color: #c1c1c1 #f1f1f1; margin-bottom: 25px;">
 
 <p style="margin: 0 0 12px 0; line-height: 1.65;"><strong>[2026/09]</strong>: I'm honored to be awarded the ACM SIGBED China Doctoral Dissertation Award!</p>
 
@@ -82,18 +81,18 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 .pub-list{display:flex;flex-direction:column;gap:14px;margin:20px 0;}
 .pub-item{display:flex;gap:16px;align-items:flex-start;padding:14px 16px;background:#fff;border:1px solid #ececec;border-left:4px solid var(--vc);border-radius:10px;box-shadow:0 1px 2px rgba(0,0,0,.03);transition:box-shadow .18s ease,transform .18s ease;}
 .pub-item:hover{box-shadow:0 4px 14px rgba(0,0,0,.07);transform:translateY(-1px);}
-.pub-venue{flex:0 0 96px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:8px 0;background:var(--vc);border-radius:7px;color:#fff;text-align:center;}
-.pub-venue-name{font-size:12.5px;font-weight:700;letter-spacing:.3px;line-height:1.2;}
-.pub-venue-year{font-size:11.5px;opacity:.85;line-height:1.2;}
+.pub-venue{flex:0 0 108px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:9px 0;background:var(--vc);border-radius:7px;color:#fff;text-align:center;}
+.pub-venue-name{font-size:14px;font-weight:700;letter-spacing:.3px;line-height:1.2;}
+.pub-venue-year{font-size:12.5px;opacity:.85;line-height:1.2;}
 .pub-content{flex:1 1 auto;min-width:0;}
-.pub-title{font-size:15px;font-weight:600;line-height:1.45;color:#1f2328;margin-bottom:5px;}
-.pub-authors{font-size:13px;line-height:1.55;color:#57606a;margin-bottom:4px;}
+.pub-title{font-size:17px;font-weight:600;line-height:1.45;color:#1f2328;margin-bottom:6px;}
+.pub-authors{font-size:14.5px;line-height:1.6;color:#57606a;margin-bottom:5px;}
 .pub-me{font-weight:700;color:#1f6feb;}
-.pub-meta{font-size:12.5px;color:#8b949e;font-style:italic;margin-bottom:9px;}
-.pub-links{display:flex;flex-wrap:wrap;gap:7px;}
-.pub-link{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:500;line-height:1;padding:4px 10px;border-radius:999px;border:1px solid #e1e4e8;background:#fff;color:#57606a !important;text-decoration:none !important;transition:all .15s ease;}
+.pub-meta{font-size:13.5px;color:#8b949e;font-style:italic;margin-bottom:10px;}
+.pub-links{display:flex;flex-wrap:wrap;gap:8px;}
+.pub-link{display:inline-flex;align-items:center;gap:5px;font-size:13px;font-weight:500;line-height:1;padding:5px 12px;border-radius:999px;border:1px solid #e1e4e8;background:#fff;color:#57606a !important;text-decoration:none !important;transition:all .15s ease;}
 .pub-link:hover{transform:translateY(-1px);}
-.pub-link i{font-size:11px;}
+.pub-link i{font-size:12px;}
 .pub-link-pdf{color:#b3261e !important;border-color:#f3cfcb;background:#fdf4f3;}
 .pub-link-pdf:hover{background:#fbe9e7;border-color:#eeb8b2;}
 .pub-link-code{color:#24292f !important;border-color:#d8dee4;background:#f6f8fa;}
@@ -102,7 +101,7 @@ Please find more about me in my [CV](files/CV_Shiming.pdf).
 .pub-link-bib:hover{background:#f1e9fb;border-color:#cfbce8;}
 @media(max-width:560px){
   .pub-item{flex-direction:column;gap:10px;}
-  .pub-venue{flex-direction:row;gap:6px;width:auto;align-self:flex-start;padding:4px 11px;}
+  .pub-venue{flex-direction:row;gap:6px;width:auto;align-self:flex-start;padding:5px 12px;}
 }
 </style>
 
