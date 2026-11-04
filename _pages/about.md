@@ -18,7 +18,7 @@ I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong 
 <div class="section-content research-directions" markdown="1">
 
 My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure.
-The scope include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
+The scopes include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
 
 In the past, my research advances the following directions in wireless networking:
 
