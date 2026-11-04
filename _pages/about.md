@@ -5,7 +5,7 @@ permalink: /
 redirect_from: [/about/, /about.html]
 ---
 <section class="hero" id="about">
-<div class="hero-copy"><p class="eyebrow">WIRELESS SYSTEMS · ARTIFICIAL INTELLIGENCE</p><h1>Shiming Yu<span class="name-dot">.</span></h1><p class="role">Postdoctoral Fellow <span>/</span> The Hong Kong Polytechnic University</p><p class="intro">Exploring the intersection of AI, wireless technology, and network infrastructure.</p><div class="hero-links"><a class="button" href="{{ '/files/CV_Shiming.pdf' | relative_url }}">Curriculum vitae <span>↗</span></a><a href="https://scholar.google.com.hk/citations?user=JPnepwEAAAAJ">Google Scholar ↗</a><a href="https://github.com/xiaoming124">GitHub ↗</a></div></div>
+<div class="hero-copy"><p class="eyebrow">WIRELESS SYSTEMS · ARTIFICIAL INTELLIGENCE</p><h1>Shiming Yu</h1><p class="role">Postdoctoral Fellow <span>/</span> The Hong Kong Polytechnic University</p><p class="intro">Exploring the intersection of AI, wireless technology, and network infrastructure.</p><div class="hero-links"><a class="button" href="{{ '/files/CV_Shiming.pdf' | relative_url }}">Curriculum vitae <span>↗</span></a><a href="https://scholar.google.com.hk/citations?user=JPnepwEAAAAJ">Google Scholar ↗</a><a href="https://github.com/xiaoming124">GitHub ↗</a></div></div>
 <figure class="portrait"><img src="{{ '/images/photo-denver.jpeg' | relative_url }}" alt="Shiming Yu" width="420" height="500"><figcaption>Hong Kong SAR, China</figcaption></figure>
 </section>
 <section class="section biography"><div class="section-label">01 / ABOUT</div><div class="section-content" markdown="1">
