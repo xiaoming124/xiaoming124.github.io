@@ -1,0 +1,178 @@
+[
+  {
+    "title": "RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations",
+    "venue": "SIGCOMM’26",
+    "authors": "<u>Shiming Yu</u>, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie",
+    "year": 2026,
+    "kind": "Conference",
+    "selected": true,
+    "links": [
+      {
+        "label": "PDF",
+        "url": "/files/RANPilot_SIGCOMM26.pdf"
+      }
+    ]
+  },
+  {
+    "title": "SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks",
+    "venue": "ICNP’25",
+    "authors": "Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang",
+    "year": 2025,
+    "kind": "Conference",
+    "selected": true,
+    "links": [
+      {
+        "label": "PDF",
+        "url": "/files/SlideLoRa_ICNP25.pdf"
+      },
+      {
+        "label": "Bib",
+        "url": "/files/icnp25.bib"
+      }
+    ]
+  },
+  {
+    "title": "Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels",
+    "venue": "MobiSys’25",
+    "authors": "<u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang",
+    "year": 2025,
+    "kind": "Conference",
+    "selected": true,
+    "links": [
+      {
+        "label": "PDF",
+        "url": "/files/Canas_MobiSys25.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/xiaoming124/Canas"
+      },
+      {
+        "label": "Bib",
+        "url": "/files/mobisys25.bib"
+      }
+    ]
+  },
+  {
+    "title": "From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs",
+    "venue": "MobiCom’25",
+    "authors": "Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu",
+    "year": 2025,
+    "kind": "Conference",
+    "selected": true,
+    "links": [
+      {
+        "label": "PDF",
+        "url": "/files/HydraNet_MobiCom25.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/LeonaRnLi/HydraNet"
+      },
+      {
+        "label": "Bib",
+        "url": "/files/mobicom25.bib"
+      }
+    ]
+  },
+  {
+    "title": "MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa Reception in Urban Environments",
+    "venue": "SenSys’25",
+    "authors": "Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu",
+    "year": 2025,
+    "kind": "Conference",
+    "selected": true,
+    "links": [
+      {
+        "label": "PDF",
+        "url": "/files/MoLoRa_SenSys25.pdf"
+      },
+      {
+        "label": "Bib",
+        "url": "/files/sensys25.bib"
+      }
+    ]
+  },
+  {
+    "title": "Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels",
+    "venue": "MobiCom’24",
+    "authors": "<u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu",
+    "year": 2024,
+    "kind": "Conference",
+    "selected": true,
+    "links": [
+      {
+        "label": "PDF",
+        "url": "/files/XGate_MobiCom24.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/xiaoming124/XGate"
+      },
+      {
+        "label": "Bib",
+        "url": "/files/mobicom24.bib"
+      }
+    ]
+  },
+  {
+    "title": "FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways",
+    "venue": "SenSys’24",
+    "authors": "<u>Shiming Yu</u>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng",
+    "year": 2024,
+    "kind": "Conference",
+    "selected": true,
+    "links": [
+      {
+        "label": "PDF",
+        "url": "/files/FDLoRa_SenSys24.pdf"
+      },
+      {
+        "label": "Bib",
+        "url": "/files/sensys24.bib"
+      }
+    ]
+  },
+  {
+    "title": "Resolving Inter-Logical Channel Interference for Large-scale LoRa Deployments",
+    "venue": "TMC'25",
+    "authors": "<u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang",
+    "year": 2025,
+    "kind": "Journal",
+    "selected": false,
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://ieeexplore.ieee.org/abstract/document/11160677"
+      }
+    ]
+  },
+  {
+    "title": "FDLoRa: Scaling Downlink Concurrent Transmissions with Full-duplex LoRa Gateways",
+    "venue": "TMC'25",
+    "authors": "<u>Shiming Yu</u>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng",
+    "year": 2025,
+    "kind": "Journal",
+    "selected": false,
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://ieeexplore.ieee.org/abstract/document/11008709"
+      }
+    ]
+  },
+  {
+    "title": "XGate: Scaling LoRa Communications to Massive Logical Channels",
+    "venue": "TON'25",
+    "authors": "<u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu",
+    "year": 2025,
+    "kind": "Journal",
+    "selected": false,
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://ieeexplore.ieee.org/abstract/document/11003802"
+      }
+    ]
+  }
+]

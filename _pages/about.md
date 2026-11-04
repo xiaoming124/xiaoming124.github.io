@@ -1,25 +1,31 @@
 ---
+layout: profile
+title: Shiming Yu
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from: [/about/, /about.html]
 ---
+<section class="hero" id="about">
+<div class="hero-copy"><p class="eyebrow">WIRELESS SYSTEMS · ARTIFICIAL INTELLIGENCE</p><h1>Shiming Yu<span class="name-dot">.</span></h1><p class="role">Postdoctoral Fellow <span>/</span> The Hong Kong Polytechnic University</p><p class="intro">Exploring the intersection of AI, wireless technology, and network infrastructure.</p><div class="hero-links"><a class="button" href="{{ '/files/CV_Shiming.pdf' | relative_url }}">Curriculum vitae <span>↗</span></a><a href="https://scholar.google.com.hk/citations?user=JPnepwEAAAAJ">Google Scholar ↗</a><a href="https://github.com/xiaoming124">GitHub ↗</a></div></div>
+<figure class="portrait"><img src="{{ '/images/photo-denver.jpeg' | relative_url }}" alt="Shiming Yu" width="420" height="500"><figcaption>Hong Kong SAR, China</figcaption></figure>
+</section>
+<section class="section biography"><div class="section-label">01 / ABOUT</div><div class="section-content" markdown="1">
+I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
 
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Biography**
-======
 
-I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
+</div></section>
+<section class="section" id="research">
+<div class="section-label">02 / RESEARCH</div>
+<div class="section-content research-directions" markdown="1">
 
-My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure. 
+## Research interests
+
+My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure.
 The scope include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
 
 In the past, my research advances the following directions in wireless networking:
 
 **IoT Network (LoRa, LPWAN):**
-        
+
 * Software-defined gateway for capacity scaling: [(MobiCom'24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649375), [(TON'25)](https://ieeexplore.ieee.org/abstract/document/11003802), [(ICNP'25)](https://ieeexplore.ieee.org/abstract/document/11192378)
 
 * Reliable communication in complex environment: [(MobiSys'25)](https://dl.acm.org/doi/abs/10.1145/3711875.3729125), [(TMC'25a)](https://ieeexplore.ieee.org/abstract/document/11160677), [(SenSys'25)](https://dl.acm.org/doi/abs/10.1145/3715014.3722075)
@@ -28,165 +34,36 @@ In the past, my research advances the following directions in wireless networkin
 
 **NextG Mobile Network (Open and AI RAN):**
 
-* AI robustness under infrastructure evolution: [(SIGCOMM'26)](https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf)
+* AI robustness under infrastructure evolution: [(SIGCOMM'26)]({{ '/files/RANPilot_SIGCOMM26.pdf' | relative_url }})
 * Agentic control plane development: [(Arxiv'26)](https://arxiv.org/abs/2603.18604)
 
-
-Please find more about me in my [CV](files/CV_Shiming.pdf).
-
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**News**
-======
-
-**[2026/07]**: Our paper *RANPilot* is accepted by **ACM SIGCOMM 2026**.
-
-**[2026/04]**: I'm honored to be recognized as one of the MobiSys’26 Rising Star!
-
-**[2026/03]**: I'm honored to be selected as the Distinguished Reviewer Board of ACM Transactions on Sensor Networks (TOSN)!
-
-**[2026/02]**: Serve as the publicity co-chair of **ACM/IEEE SEC 2026**. Please consider to submit!
-
-**[2026/01]**: Completed Ph.D. thesis defense!
-
-**[2025/07]**: Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.
-
-**[2025/04]**: Our paper *Canas* is accepted by **ACM MobiSys 2025** (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.
-
-**[2025/03]**: Our paper *HydraNet* is accepted by **ACM MobiCom 2025** (41/240=17.08%).
-
-**[2025/02]**: Our paper *MoLoRa* is accepted by **ACM SenSys 2025** (46/245=18.78%).
-
-**[2024/10]**: Awarded ACM MobiCom 2024 Student Travel Grant.
-
-**[2024/09]**: Our paper *FDLoRa* is accepted by **ACM SenSys 2024** (58/313=18.53%).
-
-**[2024/06]**: Awarded Best Oral Presentation Award @ PolyU CRSC 2024
-
-**[2024/04]**: Serve as ACM MobiSys 2024 Artifact Evaluation Committee.
-
-**[2024/02]**: Serve as ACM MobiCom 2024 Artifact Evaluation Committee.
-
-**[2023/11]**: Our paper *XGate* is accepted by **ACM MobiCom 2024** (103/494=20.85%).
-
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Selected Publications** [(Complete List)](https://xiaoming124.github.io/publications)
-======
-
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://conferences.sigcomm.org/sigcomm/2026/';" style="font-size: 15px; background-color: #8e1a27; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SIGCOMM’26</b></button>
-    </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations</b><br>
-<u>Shiming Yu</u>, Leming Shen, Jianing Zhang, Xin Li, Xianjin Xia, Yuanqing Zheng, Yaxiong Xie<br>
-<i>ACM SIGCOMM 2026 Conference, Denver, CO, USA, 2026</i><br>
-<a href="https://xiaoming124.github.io/files/RANPilot_SIGCOMM26.pdf">[PDF]</a>
-    </div>
 </div>
+</section>
+<section class="section" id="news"><div class="section-label">03 / NEWS</div><div class="section-content"><h2>Recent updates</h2><div class="news-list">
+<div class="news-item"><time>2026.09</time><div>I'm honored to be awarded the <strong>ACM SIGBED China Doctoral Dissertation Award</strong>.</div></div>
+<div class="news-item"><time>2026.08</time><div>I'm honored to be awarded the <strong>COMP PhD Thesis Outstanding Award</strong>.</div></div>
+<div class="news-item"><time>2026.07</time><div>Our paper <em>RANPilot</em> is accepted by <strong>ACM SIGCOMM 2026</strong>.</div></div>
+<div class="news-item"><time>2026.04</time><div>I'm honored to be recognized as one of the MobiSys’26 Rising Star!</div></div>
+<div class="news-item"><time>2026.03</time><div>I'm honored to be selected as the Distinguished Reviewer Board of ACM Transactions on Sensor Networks (TOSN)!</div></div>
+<div class="news-item"><time>2026.02</time><div>Serve as the publicity co-chair of <strong>ACM/IEEE SEC 2026</strong>. Please consider to submit!</div></div>
+<div class="news-item"><time>2026.01</time><div>Completed Ph.D. thesis defense!</div></div>
+</div><details><summary>Earlier updates</summary><div class="news-list">
+<div class="news-item"><time>2025.07</time><div>Our paper <em>SlideLoRa</em> is accepted by <strong>IEEE ICNP 2025</strong> (60/238=25.21%); Serve as MobiCom 2025 Demo Program Committee.</div></div>
+<div class="news-item"><time>2025.04</time><div>Our paper <em>Canas</em> is accepted by <strong>ACM MobiSys 2025</strong> (42/233=18.03%); Serve as MobiCom 2025 and MobiSys 2025 Artifact Evaluation Commitee.</div></div>
+<div class="news-item"><time>2025.03</time><div>Our paper <em>HydraNet</em> is accepted by <strong>ACM MobiCom 2025</strong> (41/240=17.08%).</div></div>
+<div class="news-item"><time>2025.02</time><div>Our paper <em>MoLoRa</em> is accepted by <strong>ACM SenSys 2025</strong> (46/245=18.78%).</div></div>
+<div class="news-item"><time>2024.10</time><div>Awarded ACM MobiCom 2024 Student Travel Grant.</div></div>
+<div class="news-item"><time>2024.09</time><div>Our paper <em>FDLoRa</em> is accepted by <strong>ACM SenSys 2024</strong> (58/313=18.53%).</div></div>
+<div class="news-item"><time>2024.06</time><div>Awarded Best Oral Presentation Award @ PolyU CRSC 2024</div></div>
+<div class="news-item"><time>2024.04</time><div>Serve as ACM MobiSys 2024 Artifact Evaluation Committee.</div></div>
+<div class="news-item"><time>2024.02</time><div>Serve as ACM MobiCom 2024 Artifact Evaluation Committee.</div></div>
+<div class="news-item"><time>2023.11</time><div>Our paper <em>XGate</em> is accepted by <strong>ACM MobiCom 2024</strong> (103/494=20.85%).</div></div>
+</div></details></div></section>
+<section class="section" id="publications"><div class="section-label">04 / PUBLICATIONS</div><div class="section-content"><div class="section-heading"><h2>Selected work</h2><a href="{{ '/publications/' | relative_url }}">All publications ↗</a></div>{% include publication-list.html selected=true %}</div></section>
+<section class="section" id="service"><div class="section-label">05 / SERVICE</div><div class="section-content" markdown="1">
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://ieeeicnp2025.pages.dev/';" style="font-size: 15px; background-color: #32a84e; color: white; width: 120px; height: 24px; border-radius: 3px; border: none;padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>ICNP’25</b></button>
-    </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks</b><br>
-Jiamin Jiang, <u>Shiming Yu</u>, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang<br>
-<i>The 33rd IEEE International Conference on Network Protocols, Seoul, South Korea, 2025</i><br>
-<a href="https://xiaoming124.github.io/files/SlideLoRa_ICNP25.pdf">[PDF]</a>
-<a href="https://xiaoming124.github.io/files/icnp25.bib">[Bib]</a>
-    </div>
-</div>
+## Professional Services
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px;margin-top:4px">
-        <button type="button" onclick="location.href='https://www.sigmobile.org/mobisys/2025/';" style="font-size: 15px; background-color: #3c90cc; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiSys’25</b></button>
-    </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels</b><br>
-<u>Shiming Yu</u>, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng, Jiliang Wang<br>
-<i>The 23rd ACM International Conference on Mobile Systems, Applications, and Services, Anaheim, CA, USA, 2025</i><br>
-<a href="https://xiaoming124.github.io/files/Canas_MobiSys25.pdf">[PDF]</a>
-<a href="https://github.com/xiaoming124/Canas">[Code]</a>
-<a href="https://xiaoming124.github.io/files/mobisys25.bib">[Bib]</a>
-    </div>
-</div>
-
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2025/';" style="font-size: 15px; background-color: #2f3982; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiCom’25</b></button>
-    </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</b><br>
-Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
-<i>The 31st Annual International Conference on Mobile Computing and Networking, Hong Kong, China, 2025</i><br>
-<a href="https://xiaoming124.github.io/files/HydraNet_MobiCom25.pdf">[PDF]</a>
-<a href="https://github.com/LeonaRnLi/HydraNet">[Code]</a>
-<a href="https://xiaoming124.github.io/files/mobicom25.bib">[Bib]</a>
-    </div>
-</div>
-
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://sensys.acm.org/2025/';" style="font-size: 15px; background-color: #feae00; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SenSys’25</b></button>
-    </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>MoLoRa: Intelligent Mobile Antenna System for Enhanced LoRa
-Reception in Urban Environments</b><br>
-Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao Gu<br>
-<i>The 23rd ACM Conference on Embedded Networked Sensor Systems, Irvine, CA, USA, 2025</i><br>
-<a href="https://xiaoming124.github.io/files/MoLoRa_SenSys25.pdf">[PDF]</a>
-<a href="https://xiaoming124.github.io/files/sensys25.bib">[Bib]</a>
-    </div>
-</div>
-
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://www.sigmobile.org/mobicom/2024/';" style="font-size: 15px; background-color: #2f3982; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>MobiCom’24</b></button>
-    </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</b><br>
-<u>Shiming Yu</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu<br>
-<i>The 30th Annual International Conference on Mobile Computing and Networking, Washington D.C., USA, 2024</i><br>
-<a href="https://xiaoming124.github.io/files/XGate_MobiCom24.pdf">[PDF]</a>
-<a href="https://github.com/xiaoming124/XGate">[Code]</a>
-<a href="https://xiaoming124.github.io/files/mobicom24.bib">[Bib]</a>
-    </div>
-</div>
-
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<div style="display: flex; border: 1px solid none; position: relative; margin: 15px 0; align-items: flex-start; padding: 0;">
-    <div style="width: 8%; background-color: none; padding: 0px; margin-top:4px">
-        <button type="button" onclick="location.href='https://sensys.acm.org/2024/';" style="font-size: 15px; background-color: #feae00; color: white; width: 120px; height: 24px; border-radius: 3px; border: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center;"><b>SenSys’24</b></button>
-    </div>
-    <div style="width: 2%; background-color: none; margin: 0 0;"></div>
-    <div style="width: 84%; background-color: none; padding: 0px 60px;">
-        
-<b>FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways</b><br>
-<u>Shiming Yu</u>, Xianjin Xia, Ziyue Zhang, Ningning Hou, Yuanqing Zheng<br>
-<i>The 22nd ACM Conference on Embedded Networked Sensor Systems, Hangzhou, China, 2024</i><br>
-<a href="https://xiaoming124.github.io/files/FDLoRa_SenSys24.pdf">[PDF]</a>
-<a href="https://xiaoming124.github.io/files/sensys24.bib">[Bib]</a>
-    </div>
-</div>
-
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Professional Services**
-======
 **Conference Organization**
 
 2026: Publicity Co-Chair for ACM/IEEE SEC
@@ -209,8 +86,13 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 
 2023: TOSN, TWC, Computer Networks
 
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Honors & Awards**
-======
+</div></section>
+<section class="section" id="honors"><div class="section-label">06 / RECOGNITION</div><div class="section-content" markdown="1">
+
+## Honors & Awards
+
+* ACM SIGBED China Doctoral Dissertation Award, 2026
+* PhD Thesis Outstanding Award @ PolyU COMP, 2026
 * Rising Star @ ACM MobiSys, 2026
 * Distinguished Reviewer Board @ ACM TOSN 2026-2027
 * Winner (Rank 1) @ Three Minute Thesis (3MT) Competition, PolyU FCMS, 2025
@@ -221,16 +103,16 @@ Ningning Hou, Yifeng Wang, Xianjin Xia, <u>Shiming Yu</u>, Yuanqing Zheng, Tao G
 * Outstanding Student Scholarship (Top 15%) @ UESTC, 2019
 * Outstanding Student Scholarship (Top 15%) @ UESTC, 2020
 
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Teaching Experience**
-======
+</div></section>
+<section class="section" id="teaching"><div class="section-label">07 / TEACHING</div><div class="section-content" markdown="1">
+
+## Teaching Experience
+
 * COMP1010 Computational Thinking and Problem Solving, Teaching Assistant, 2025 Fall
 * COMP5434 Big Data Computing, Teaching Assistant, 2024 Fall
 * COMP5311 Internet Infrastructure And Protocols, Teaching Assistant, 2023 Fall
 * COMP1011 Programming Fundamentals, Teaching Assistant, 2023 Spring, 2024 Spring, 2025 Spring
 * COMP1004 Introduction to Artificial Intelligence and Data Analytics, Teaching Assistant, 2022 Fall
 
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Contact**
-======
-> Email: shiming.yu@connect.polyu.hk
->
-> Address: QT404, Department of Computing, Chow Yei Ching Building, The Hong Kong Polytechnic University, Hong Kong SAR, China.
+</div></section>
+<section class="contact-section" id="contact"><p class="eyebrow">GET IN TOUCH</p><h2>Let’s connect.</h2><a class="contact-email" href="mailto:shiming.yu@connect.polyu.hk">shiming.yu@connect.polyu.hk ↗</a><p>QT404, Department of Computing, Chow Yei Ching Building<br>The Hong Kong Polytechnic University, Hong Kong SAR, China</p></section>

@@ -1,12 +1,10 @@
 ---
-layout: archive
-title: ""
+layout: profile
+title: Talks
 permalink: /talks/
-author_profile: true
 ---
 
-<span style="display:inline-block;width:8px;height:20px;background:#3498db;margin-right:8px;vertical-align:middle;"></span>**Talks**
-======
+<header class="page-heading"><p class="eyebrow">PRESENTATIONS & INVITED TALKS</p><h1>Talks<span class="name-dot">.</span></h1></header>
 
 - RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations
 
@@ -18,7 +16,7 @@ author_profile: true
 
 - Towards Multi-functional Internet of Things with Long-range Scalable Downlink
 
-  PolyU Three Minute Thesis (3MT) Competition **<span style="color:red; font-weight:bold;">(Winner - Rank #1 @ FCMS)</span>**
+  PolyU Three Minute Thesis (3MT) Competition **<span class="award">(Winner - Rank #1 @ FCMS)</span>**
 
 - Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels
 
@@ -28,7 +26,7 @@ author_profile: true
 
   ACM MobiCom 2024, Washinton D.C., DC, USA <a href="https://xiaoming124.github.io/files/XGate_MobiCom24_v2.key">[Slides]</a>
 
-  PolyU COMP Research Student Conference 2024 **<span style="color:red; font-weight:bold;">(Best Oral Presentation Award)</span>**
+  PolyU COMP Research Student Conference 2024 **<span class="award">(Best Oral Presentation Award)</span>**
 
 - FDLoRa: Tackling Downlink-Uplink Asymmetry with Full-duplex LoRa Gateways
   
