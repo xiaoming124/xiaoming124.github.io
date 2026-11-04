@@ -8,16 +8,14 @@ redirect_from: [/about/, /about.html]
 <div class="hero-copy"><p class="eyebrow">WIRELESS SYSTEMS · ARTIFICIAL INTELLIGENCE</p><h1>Shiming Yu</h1><p class="role">Postdoctoral Fellow <span>/</span> The Hong Kong Polytechnic University</p><p class="intro">Exploring the intersection of AI, wireless technology, and network infrastructure.</p><div class="hero-links"><a class="button" href="{{ '/files/CV_Shiming.pdf' | relative_url }}">Curriculum vitae <span>↗</span></a><a href="https://scholar.google.com.hk/citations?user=JPnepwEAAAAJ">Google Scholar ↗</a><a href="https://github.com/xiaoming124">GitHub ↗</a></div></div>
 <figure class="portrait"><img src="{{ '/images/photo-denver.jpeg' | relative_url }}" alt="Shiming Yu" width="420" height="500"><figcaption>Hong Kong SAR, China</figcaption></figure>
 </section>
-<section class="section biography"><div class="section-label">01 / ABOUT</div><div class="section-content" markdown="1">
+<section class="section biography"><div class="section-label">ABOUT</div><div class="section-content" markdown="1">
 I am currently a Postdoctoral Fellow at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I received my Ph.D. from the same department, advised by my insightful supervisor [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). I received B.E. degree in Communication Engineering from School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
 
 
 </div></section>
 <section class="section" id="research">
-<div class="section-label">02 / RESEARCH</div>
+<div class="section-label">RESEARCH</div>
 <div class="section-content research-directions" markdown="1">
-
-## Research interests
 
 My research interests broadly fall under the intersection of AI, wireless technology, and wireless network infrastructure.
 The scope include but are not limited to **AIoT**, **5G/6G Mobile Network**, **AI/ML for Networking**.
@@ -39,7 +37,7 @@ In the past, my research advances the following directions in wireless networkin
 
 </div>
 </section>
-<section class="section" id="news"><div class="section-label">03 / NEWS</div><div class="section-content"><h2>Recent updates</h2><div class="news-list">
+<section class="section" id="news"><div class="section-label">NEWS</div><div class="section-content"><div class="news-list">
 <div class="news-item"><time>2026.09</time><div>I'm honored to be awarded the <strong>ACM SIGBED China Doctoral Dissertation Award</strong>.</div></div>
 <div class="news-item"><time>2026.08</time><div>I'm honored to be awarded the <strong>COMP PhD Thesis Outstanding Award</strong>.</div></div>
 <div class="news-item"><time>2026.07</time><div>Our paper <em>RANPilot</em> is accepted by <strong>ACM SIGCOMM 2026</strong>.</div></div>
@@ -59,10 +57,8 @@ In the past, my research advances the following directions in wireless networkin
 <div class="news-item"><time>2024.02</time><div>Serve as ACM MobiCom 2024 Artifact Evaluation Committee.</div></div>
 <div class="news-item"><time>2023.11</time><div>Our paper <em>XGate</em> is accepted by <strong>ACM MobiCom 2024</strong> (103/494=20.85%).</div></div>
 </div></details></div></section>
-<section class="section" id="publications"><div class="section-label">04 / PUBLICATIONS</div><div class="section-content"><div class="section-heading"><h2>Selected work</h2><a href="{{ '/publications/' | relative_url }}">All publications ↗</a></div>{% include publication-list.html selected=true %}</div></section>
-<section class="section" id="service"><div class="section-label">05 / SERVICE</div><div class="section-content" markdown="1">
-
-## Professional Services
+<section class="section" id="publications"><div class="section-label">PUBLICATIONS</div><div class="section-content"><div class="section-heading"><a href="{{ '/publications/' | relative_url }}">All publications ↗</a></div>{% include publication-list.html selected=true %}</div></section>
+<section class="section" id="service"><div class="section-label">SERVICE</div><div class="section-content" markdown="1">
 
 **Conference Organization**
 
@@ -87,9 +83,7 @@ In the past, my research advances the following directions in wireless networkin
 2023: TOSN, TWC, Computer Networks
 
 </div></section>
-<section class="section" id="honors"><div class="section-label">06 / RECOGNITION</div><div class="section-content" markdown="1">
-
-## Honors & Awards
+<section class="section" id="honors"><div class="section-label">AWARDS</div><div class="section-content" markdown="1">
 
 * ACM SIGBED China Doctoral Dissertation Award, 2026
 * PhD Thesis Outstanding Award @ PolyU COMP, 2026
@@ -104,9 +98,7 @@ In the past, my research advances the following directions in wireless networkin
 * Outstanding Student Scholarship (Top 15%) @ UESTC, 2020
 
 </div></section>
-<section class="section" id="teaching"><div class="section-label">07 / TEACHING</div><div class="section-content" markdown="1">
-
-## Teaching Experience
+<section class="section" id="teaching"><div class="section-label">TEACHING</div><div class="section-content" markdown="1">
 
 * COMP1010 Computational Thinking and Problem Solving, Teaching Assistant, 2025 Fall
 * COMP5434 Big Data Computing, Teaching Assistant, 2024 Fall
@@ -115,4 +107,4 @@ In the past, my research advances the following directions in wireless networkin
 * COMP1004 Introduction to Artificial Intelligence and Data Analytics, Teaching Assistant, 2022 Fall
 
 </div></section>
-<section class="contact-section" id="contact"><p class="eyebrow">GET IN TOUCH</p><h2>Let’s connect.</h2><a class="contact-email" href="mailto:shiming.yu@connect.polyu.hk">shiming.yu@connect.polyu.hk ↗</a><p>QT404, Department of Computing, Chow Yei Ching Building<br>The Hong Kong Polytechnic University, Hong Kong SAR, China</p></section>
+<section class="contact-section" id="contact"><p class="eyebrow">GET IN TOUCH</p><a class="contact-email" href="mailto:shiming.yu@connect.polyu.hk">shiming.yu@connect.polyu.hk ↗</a><p>QT404, Department of Computing, Chow Yei Ching Building<br>The Hong Kong Polytechnic University, Hong Kong SAR, China</p></section>
