@@ -62,3 +62,8 @@
 /* Hide the header monogram while preserving navigation placement. */
 .site-header .wordmark { display: none; }
 .header-inner { justify-content: flex-end; }
+
+/* Give presentation resources a separate, easy-to-scan action row. */
+.talk-links { margin-top: 12px; }
+.talk-links a { min-height: 38px; padding: 7px 14px; font-weight: 700; }
+.talk-links svg { width: 18px; height: 18px; }
