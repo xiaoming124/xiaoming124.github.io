@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-<header class="page-heading"><p class="eyebrow">PRESENTATIONS & INVITED TALKS</p><h1>Talks<span class="name-dot">.</span></h1></header>
+<header class="page-heading"><p class="eyebrow">PRESENTATIONS & INVITED TALKS</p><h1>Talks</h1></header>
 
 - RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations
 
