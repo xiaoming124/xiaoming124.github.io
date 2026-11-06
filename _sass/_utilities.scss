@@ -95,11 +95,19 @@ body:hover .visually-hidden button {
 .text-right {
   text-align: right;
 }
-
+ 
 .text-justify {
   text-align: justify;
 }
-
+ 
+.news-list__item--collapsed {
+  display: none !important;
+}
+ 
+.news-list__toggle {
+  margin-top: 1.5em;
+}
+ 
 .text-nowrap {
   white-space: nowrap;
 }

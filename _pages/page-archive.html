@@ -6,6 +6,8 @@ author_profile: false
 ---
 
 {% include base_path %}
+<div class="news-list" data-visible-items="5">
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
+</div>
